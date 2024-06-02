@@ -1,0 +1,8 @@
+[package]
+name = "transcript-to-json"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde_json = { version = "1.0.117", features = ["preserve_order"] }
+serde = { version = "1.0.117", features = ["derive"] }

@@ -1,0 +1,2050 @@
+Detected language 'de' with probability 0.979510
+[0.00s -> 10.42s]  Aufgrund so möglich widriger Umstände in einen universitären Dialog gerät, der sich mit Kunst besatzt, kriegt man einige Schwierigkeiten.
+[11.10s -> 23.12s]  Angenommen, man kommt in einem Seminar, in einer Vorlesung, in so einen Dialog hinein und da geht es beispielsweise um irgendeinen Ganymed,
+[23.12s -> 38.12s]  da analysieren Leute Zeilen hoch, hinauf, zu dir, Schöpfer oder es geht um irgendeinen göttlichen Funken der Schöpfung
+[38.12s -> 51.66s]  oder es geht um sonstige Bilder von höheren Prinzipien, höheren Sinnaktivkeiten und man ist bemüht, was loszuwerden.
+[53.12s -> 67.22s]  Man entschließt sich dazu, einzugreifen, zumindest mal ganz banal, zu sagen, also diese Idee hier mit der Schöpfung, die hier in Rede steht, finde ich nicht gut.
+[68.22s -> 80.28s]  Man entschließt sich vielleicht auch dazu, zu sagen, zu erläutern, warum man das nicht gut findet, nicht besonders, und kritisiert den Eintrag, der dahinter steht.
+[82.08s -> 83.10s]  Man sagt, wir sind nicht gut.
+[83.10s -> 83.12s]  Man sagt, wir sind nicht gut.
+[83.12s -> 113.10s]  Man sagt, wir sind nicht gut.
+[113.10s -> 143.08s]  Man sagt, wir sind nicht gut.
+[143.08s -> 173.06s]  Man sagt, wir sind nicht gut.
+[173.06s -> 202.94s]  Man sagt, wir sind nicht gut.
+[202.94s -> 203.02s]  Man sagt, wir sind nicht gut.
+[203.02s -> 203.04s]  Man sagt, wir sind nicht gut.
+[203.04s -> 233.02s]  Man sagt, wir sind nicht gut.
+[233.02s -> 263.00s]  Man sagt, wir sind nicht gut.
+[263.00s -> 292.98s]  Man sagt, wir sind nicht gut.
+[293.00s -> 314.04s]  Der zusammenfassende Vorwurf heißt also, ein zur Sprache bringen, gar ein Kritisieren dessen, was in dieser Kunst, mit der man sich da abgibt, ein Ideenwerk eingegangen ist, würde der Kunst nicht gerecht werden.
+[314.04s -> 322.96s]  Man sagt, wir sind nicht gut.
+[322.96s -> 352.82s]  Der Zusammenfassende Vorwurf heißt also, ein zur Sprache bringen, gar ein Kritisieren dessen, was in dieser Kunst, mit der man sich da abgibt, ein Ideenwerk eingegangen ist, würde der Kunst nicht gerecht werden.
+[352.82s -> 361.82s]  Idee in Form von Bildern, in Form fantasierter Vorstellungen zu vergegenwärtigen, kommt
+[361.82s -> 371.60s]  daher häufiger Anspruch als Ausdruck eines Bemühens, welches heißt, es gilt der Kunst
+[371.60s -> 384.32s]  gerecht zu werden. Infolgedessen die Bemühungen in diesem Vortrag zu analysieren, welchen
+[384.32s -> 395.48s]  Gegenstand, beziehungsweise welchem Anspruch man da eigentlich gerecht werden soll. Denn
+[395.48s -> 401.58s]  wenn dieser Anspruch, der einem da entgegengetragen wird, sich schon nicht kritisieren
+[401.60s -> 409.60s]  lassen will, so heißt das noch lange nicht, dass das, worauf er sich bezieht, die Kunst
+[409.60s -> 425.44s]  nicht kritikabel wäre. Der Vortrag soll die angekündigten 300 Jahre bewältigen. Das wird
+[425.44s -> 426.86s]  ohnehin eine Zeit dauern.
+[431.60s -> 449.60s]  Es ist klar, dass da, gerade weil dieser Dichterstandpunkt, die deutsche Kunst, um die es geht, sehr viel zu Wege gebracht hat, dass da einige, auch
+[449.60s -> 461.58s]  große Künstler, einfach nicht erwähnt werden. Die fallen raus. Aus Zeitgründen zweitens, aber auch, weil es ziemlich fad ist, dass die
+[461.60s -> 465.60s]  da ist.
+[465.60s -> 469.50s]  Und zwar, weil die da ist.
+[469.50s -> 475.60s]  Und auch, weil ich ein anderes Ding zu dem Thema mitgebracht habe.
+[475.60s -> 487.60s]  Wenn jemand da ist und meint, er wüsste etwas anderes von einem Dichter oder irgendeiner, der hier vorkommt, irgendein Argument würde irgendjemanden keine Gerechtigkeit wieder erfahren lassen, so soll er bitte einsteigen.
+[487.60s -> 489.60s]  Oder, wenn sonst etwas nicht eindeutig ist, und er es auch nicht will, dann soll er es nicht.
+[489.60s -> 490.60s]  Oder wenn sonst etwas nicht eindeutig ist, dann soll er es nicht einsteigen.
+[490.60s -> 491.60s]  Dann soll er es nicht einsteigen.
+[491.60s -> 502.26s]  das gesagt wird, das kann man jederzeit diskutieren. Obwohl angekündigt, soll es mit der deutschen
+[502.26s -> 511.80s]  Kunst nicht bei den Gottschäden beginnen. Das hat einen sachlichen Grund, weil wenn
+[511.80s -> 520.80s]  man sich dessen Haupt- und einzigen theoretischen Lehrsatz zu Gemüte führt, der heißt, der
+[520.80s -> 525.96s]  Poet wählt sich einen moralischen Lehrsatz, den er seinen Zuschauern auf eine sinnliche
+[525.96s -> 531.68s]  Art einprägen will. Dazu ersinnt er sich eine allgemeine Fabel, daraus die Wahrheit
+[531.68s -> 537.20s]  eines Satzes erhellt. Und so weiter. Dann heißt es unten, dieses, was er dann gemacht
+[537.20s -> 543.36s]  hat, teilt er dann in fünf Stücke ein, die ungefähr gleich groß sind und ordnet sie
+[543.36s -> 549.68s]  so, dass natürlicherweise das Letztere aus dem Vorhergehenden fließt. Dann merkt man,
+[550.80s -> 557.76s]  da kommt die große deutsche Kunst in ihrem Ursprung schon noch ein wenig Hölzern daher
+[557.76s -> 565.96s]  und wenn man das klein macht, läuft man Gefahr, dass man dann erntet Kunststück, bei dem
+[565.96s -> 573.16s]  kann es ja jeder. Es wird sich aber zeigen, dass trotz großer Bemühungen in Sachen Theorie
+[573.16s -> 577.46s]  und Praxis, es viel weiter die Dichter nicht gebracht haben.
+[580.80s -> 588.76s]  Der erste große deutsche Dichter, mit dem wir anfangen, Blessing, hat auch ziemlich klein
+[588.76s -> 599.68s]  angefangen. Er war ein fleißiger Bibliothekar, hat die Bibel studiert und seine Hauptzeit
+[599.68s -> 610.36s]  damit verbracht, die Vorläufer seines Gewerbes zu sortieren, zu kritisieren, gegeneinander
+[610.80s -> 620.46s]  zu beurteilen. Und man muss sagen, auch wenn der Wissensstand der damaligen Zeit so enorm
+[620.46s -> 631.00s]  nicht war, eins steht fest, das Wissen seiner Zeit hat er Blessing nicht bereichert. Sein
+[631.00s -> 636.64s]  eifriges Befassen mit der Literatur, mit dem Wissensschatz seiner Zeit, wie es ihm
+[636.64s -> 640.74s]  schien, hat ihn wesentlich geändert. Er hat sich nicht nur mit der Literatur, mit dem
+[640.74s -> 640.78s]  Wissen seiner Zeit, mit dem Wissensschatz seiner Zeit, wie es ihm schien, hat ihn wesentlich
+[640.78s -> 651.00s]  nicht weitergebracht, als zu einer Gesamtlehre. Die ist einfach und heißt, der Mensch ist
+[651.00s -> 661.68s]  gut und er kann im Prinzip nur besser werden. Diese Auffassung ist in der Tat sehr schlecht
+[661.68s -> 670.72s]  und verkehrt. Sie besteht halt darin, jenseits von allem Tun und Wissen, das man in der
+[670.72s -> 686.86s]  Menschheit hat, diesen Selbst einen bestimmten Zweck anzusinnen, der gut oder schlecht ist,
+[688.24s -> 694.52s]  und von dem zu behaupten, der wäre das, was dieses Tun und Treiben recht eigentlich in
+[694.52s -> 695.70s]  Wahrheit bestimmen würde.
+[695.70s -> 723.92s]  Das ist zwar unhaltbar, widersprüchlich, insofern, als dem Willen, der so überprüft wird, der Maßstab eingestiegen wird, gedanklich, er sei im Prinzip immer damit befasst, sein Gegenteil zu wollen, nämlich das, was ihm als Pflicht, als Sollen gegenüber tritt,
+[723.92s -> 734.16s]  aber dieser Maßstab der moralischen Überprüfung ist ziemlich sattelfest.
+[736.56s -> 753.00s]  Gerade weil er sich um nichts kümmert, welche Tat, welches Treiben, welcher Zweck, der eigentlich objektiv der Überprüfung unterzogen werden soll, weil er darüber kein Urteil fasst,
+[753.92s -> 767.96s]  ist er ziemlich zeitlos, schon vor Generationen vor Lessing gedacht worden, insbesondere Pfaffen haben sich an dieser Konstruktion des guten Menschen verdient gemacht,
+[768.52s -> 779.46s]  und auch heute, das weiß man hier, dass auch ein Lessing und seine Kollegen genießen, hat diese moralische Grundidee noch jede Menge ansehen.
+[783.92s -> 801.68s]  Lessing nun, wie gesagt, er befasst sich mit diesen Sentenzen von alten Griechen, alten Römern, sortiert sie, und er findet bei seinem eifrigen Studium diese Sentenzen eine Stelle, die ihn schwer interessiert.
+[801.68s -> 809.98s]  Das ist das erste Zitat, da hat er so einen alten Vorsicht, und er reimt folgendes.
+[810.54s -> 812.52s]  Lieb immer Geld und Gut.
+[812.52s -> 819.14s]  Nur so, dass dein Erbarmen der Arme fühlt, und flieh die Armut, nicht die Armen.
+[822.34s -> 832.28s]  Dieser Mann, der Dichter, der alte um den Staget, der hat sich auch um eine Verbesserung des Satzes bemüht, die steht darunter und heißt,
+[833.40s -> 840.52s]  Du liebst zwar Geld und Gut, doch so, dass dein Erbarmen der Arme fühlt, du fließt die Armut, nicht die Armen.
+[842.52s -> 846.68s]  Das hat an unserem Lessing zur folgenden Stellungnahme inspiriert.
+[847.50s -> 859.74s]  Der Unterschied ist klein, und doch ist jenes bei vollkommen jedem derselben Wendung nichts als eine kalte, allgemeine Leere, und dieses ein Bild voller Leben und Seele.
+[860.74s -> 865.76s]  Jenes ein gereimter Sittenspruch, und dieses ein wahres Sinngewicht.
+[868.40s -> 870.76s]  Mildtätigkeit, Barmherzigkeit.
+[871.54s -> 872.50s]  Ja, das ist der Wert.
+[872.52s -> 883.36s]  Der Wert, der diesem barocken Dichter am Herzen lag, und der vorliegend über die Güte und Klasse des Menschenhandelns entscheiden soll.
+[884.76s -> 891.46s]  Der war schon dem Barockdichter so wichtig, dass er zwei Fassungen, eine schöne wie die andere, geschrieben hat.
+[893.10s -> 896.92s]  Und der Lessing'schen Stellungnahme hierzu ist zunächst mal zweierlei zu entnehmen.
+[899.38s -> 901.96s]  Erstens, die Lehre.
+[902.52s -> 910.04s]  Die moralische Konstruktion, die geht für Lessing ohne Frage vollständig in Ordnung.
+[912.08s -> 922.96s]  Zweitens, aus dem Wie des Sagens gewinnt Lessing eine zusätzliche Qualität.
+[922.96s -> 932.40s]  Zweitens, einmal soll dieser Sittenspruch bloß, kalt und allgemein sein.
+[932.52s -> 935.88s]  Zweitens, ein andermal ein bildvoller Leben.
+[938.20s -> 944.46s]  Das ist bemerkenswert, dass zweimal im Grunde dasselbe gesagt wird.
+[946.32s -> 950.56s]  Derselbe Sinn, das entgeht dem Lessing durchaus nicht.
+[952.60s -> 959.96s]  Er meint aber, dass wenn man der moralischen Parole, du sollst barmherzig sein,
+[962.52s -> 966.54s]  das dahinterstehende Ausrufezeichen nimmt, wegnimmt,
+[967.98s -> 972.04s]  den Imperativ der Sache einfach zum Verschwinden bringt
+[972.04s -> 977.48s]  und etwa sagt, da schau her, du bist's,
+[979.10s -> 983.54s]  dann wäre dem Sittenspruch überhaupt nicht mehr anzumerken, dass er einer ist.
+[985.08s -> 991.18s]  Dass er eben bloß sowas ist, sondern es erstrahlt ein Bild voller Leben,
+[992.52s -> 998.54s]  ein wahrer Sinn, der darüber auch gerade noch schön ist.
+[1001.06s -> 1006.18s]  Dieser Sinn besteht vorliegend schlicht in der Vorstellung,
+[1007.88s -> 1015.90s]  dass jemand tatsächlich so ist, wie er seinem moralischen Ideal nach sein soll.
+[1018.20s -> 1021.56s]  Es ist eine recht einfache Idealisierung der Moral,
+[1021.56s -> 1022.06s]  aber es ist eine recht einfache Idealisierung der Moral,
+[1022.06s -> 1028.38s]  aber die hat Geschichte, die Geschichte der Kunst, inspiriert
+[1028.38s -> 1038.96s]  und zuallererst den Lessing selber, der aus dieser Idealisierung den Entwurf einer Theaterlehre drechselt
+[1038.96s -> 1042.22s]  und diese später verdichtet.
+[1045.10s -> 1050.14s]  Lessing hat erstens im Sittensprüchen dieses Kalibers
+[1050.14s -> 1051.54s]  in Sintra, in der Theaterlehre, in der Theaterlehre, in der Theaterlehre, in der Theaterlehre,
+[1051.54s -> 1052.04s]  in der Theaterlehre, in der Theaterlehre, in der Theaterlehre, in der Theaterlehre, in der Theaterlehre,
+[1052.04s -> 1052.56s]  in der Theaterlehre, in der Theaterlehre, in der Theaterlehre, in der Theaterlehre,
+[1052.56s -> 1056.44s]  in Menschenbildern von Gut und Böse,
+[1057.28s -> 1061.02s]  Nächstenliebe und ähnliche Tugendtitel,
+[1061.54s -> 1063.92s]  den Gipfel des Wissens gesehen.
+[1066.88s -> 1069.74s]  Er hat darin tatsächlich etwas entdeckt,
+[1070.54s -> 1076.64s]  was ihm sehr wichtig erschien, dass es mitgeteilt wird.
+[1078.88s -> 1082.02s]  Er war der Auffassung, dass ausgerechnet die Menschen, die in der Theaterlehre leben,
+[1082.04s -> 1083.86s]  ausgerechnet müssen alle wissen,
+[1085.04s -> 1088.14s]  das ausgerechnet könnte man doch gar nicht oft genug sagen.
+[1089.52s -> 1093.38s]  Und er hat hieraus den Stoff einer belehrenden Absicht gezogen.
+[1097.62s -> 1102.00s]  Zweitens hat er sich auf die Idee versteift,
+[1103.84s -> 1109.04s]  im Namen dieses Zusagenden, dieser Lehre, im Namen dieser Botschaft,
+[1109.04s -> 1111.04s]  die jeder hört,
+[1112.04s -> 1119.98s]  den in Frage stehenden Sinn auch in ein sinnfälliges, in ein g-fälliges Bild zu gießen,
+[1120.98s -> 1124.78s]  auf das er dann, wie er sich ausdrückt, ein wahrer Sinn werde.
+[1128.24s -> 1134.04s]  Seine Idee, die moralische Sentenz,
+[1135.04s -> 1138.94s]  soll vorstellungsmäßig so ausgedrückt werden,
+[1140.14s -> 1142.02s]  dass man gewissermaßen die Analyse, die man in der Theaterlehre hat,
+[1142.02s -> 1147.72s]  nach dem Nachvollzug des Bildes auf die Seite der Moral gezogen wird.
+[1150.72s -> 1154.72s]  Er hat schwer dafür gesorgt, dass die moralische Lehre gefällt,
+[1155.72s -> 1159.72s]  und das war dann auch schon die Definition, die Bestimmung dieses Gefallens,
+[1160.72s -> 1166.72s]  nämlich der Mensch ist so, wie sein Menschenbild es vorschreibt.
+[1168.72s -> 1171.12s]  Drittens hat er hieraus
+[1171.12s -> 1173.82s]  eine weitere Idee gewonnen,
+[1174.82s -> 1181.82s]  nämlich die der Wirkung seiner fantasievollen Bebilderung moralischer Sentenzen dieser Art.
+[1185.82s -> 1189.82s]  Von moralischen Wesentlichkeiten hat er die Auffassung gehabt,
+[1190.82s -> 1193.82s]  wenn er sie in seine Finger nimmt,
+[1194.82s -> 1199.82s]  wenn er Bilder der vorhin kurz angesprochenen Art aus ihnen fertigt,
+[1201.12s -> 1208.82s]  dann hätten die auch auf alle, denen er diese Bilder kredenzt, eine unnachahmliche Wirkung.
+[1209.82s -> 1216.82s]  Das Publikum, das er ansprechen wollte, sollte belehrt werden,
+[1217.82s -> 1223.82s]  ihm sollte eine Einsicht eingängig gemacht werden, die es wesentlich trifft, die es angeht,
+[1224.82s -> 1228.82s]  und zugleich, so auch dem Messing seine Idee,
+[1228.82s -> 1234.52s]  soll wir dieser Einsicht an Ihnen, an den Leuten,
+[1235.52s -> 1243.52s]  das moralische Ideal, die Tugend, dieser menschliche Sinn, wirklich existieren.
+[1244.52s -> 1247.52s]  Der Anspruch kommt in die Welt,
+[1248.52s -> 1258.52s]  wir, oder mittels dieses Verfertigens von schönen Bildern, moralischen Inhalts, sollen die Menschen besser werden.
+[1259.52s -> 1268.52s]  Diese drei Momente bei Lessing sind, das wird hoffentlich deutlich werden im Fortgang,
+[1269.52s -> 1272.52s]  wesentliche Bestandteile allen Kunstschaffens.
+[1273.52s -> 1280.52s]  Sie kommen so, oder verkleidet, aber im Prinzip die nächsten 150 Jahre daher.
+[1282.52s -> 1285.52s]  Wir haben ein feines moralisches Ideal,
+[1286.22s -> 1292.22s]  in dem steht, dass der Mensch und was er soll.
+[1293.22s -> 1300.22s]  Wir denken uns zweitens mit unserer Fantasie etwas aus,
+[1301.22s -> 1306.22s]  das dieses Ideal lebensnah, anschaulich macht.
+[1307.22s -> 1310.22s]  Beispielsweise, wir denken uns einem Menschen zurecht.
+[1311.22s -> 1315.22s]  Wir konstruieren einen Fall, ein Stück Handlung.
+[1316.22s -> 1320.22s]  In der dieses Ideal exemplifiziert wird.
+[1322.22s -> 1326.22s]  Naja, das Programm dieses zweiten Punktes heißt,
+[1327.22s -> 1334.22s]  ein Mensch auf der Bühne zeigt, dass er die Verlebendigung dieser Idee ist, die er sein soll.
+[1335.22s -> 1341.22s]  Das ist dann das Theater, welches drittens im Publikum den Effekt hervorrufen soll,
+[1342.22s -> 1343.22s]  genau,
+[1343.22s -> 1345.22s]  wie der auf der Bühne es macht,
+[1345.92s -> 1347.92s]  das haut hin, so bin ich auch,
+[1347.92s -> 1349.92s]  auf geht's, tugend, tugend.
+[1349.92s -> 1351.92s]  Das ist die Idee.
+[1354.92s -> 1356.92s]  Das nette an Lessing,
+[1357.92s -> 1360.92s]  überhaupt von diesen alten Herren,
+[1361.92s -> 1364.92s]  zu berichten ist, dass sie sich diese Prätention
+[1365.92s -> 1368.92s]  noch ziemlich frei von der Leber weggeschrieben haben.
+[1370.92s -> 1372.92s]  Das nette an Lessing ist,
+[1372.92s -> 1374.92s]  dass er
+[1375.62s -> 1380.62s]  noch für dieses Ideal des Eingängigmachens von sittlichen Ideen
+[1382.62s -> 1385.62s]  Rezepte verfasst hat,
+[1385.62s -> 1387.62s]  wie das zu gehen habe
+[1389.62s -> 1391.62s]  und denen ist anzunagen,
+[1392.62s -> 1395.62s]  was dieses Vorhaben für ein Unsinn ist.
+[1397.62s -> 1399.62s]  Das zweite Zitat
+[1400.62s -> 1403.62s]  Wenn es, gemeint ist das Theater, lehrt,
+[1403.62s -> 1406.32s]  so tut es solches nicht wie ein Pedant,
+[1406.32s -> 1408.32s]  welcher es allemal voraus verkündigt,
+[1408.32s -> 1410.32s]  dass er etwas Kluges sagen will,
+[1410.32s -> 1412.32s]  sondern wie ein Mensch,
+[1412.32s -> 1414.32s]  der durch seinen Umgang unterrichtet
+[1414.32s -> 1416.32s]  und der sich hütet, jemals zu erkennen zu geben,
+[1416.32s -> 1418.32s]  dass dies seine Absicht sei.
+[1418.32s -> 1420.32s]  Es ist genug, wenn der Poet weiß,
+[1420.32s -> 1422.32s]  dass er in seinem Werke Gelegenheit hat,
+[1422.32s -> 1424.32s]  der Sitten Lehre dienst zu tun.
+[1424.32s -> 1426.32s]  Und der dramatische Poet hat diese Gelegenheit,
+[1426.32s -> 1428.32s]  besonders durch eine genaue Begründung,
+[1428.32s -> 1430.32s]  dass er in seinem Werke Gelegenheit hat,
+[1430.32s -> 1432.32s]  der Sitten Lehre dienst zu tun.
+[1432.32s -> 1435.32s]  Besonders durch eine genaue und feine Abschilderung
+[1435.32s -> 1437.32s]  der Gemüter und Leidenschaften.
+[1439.32s -> 1445.32s]  Was Kluges möchte der Lessing allemal auch gesagt haben.
+[1446.32s -> 1450.32s]  Bloß, er möchte es halt nicht einfach so sagen.
+[1452.32s -> 1454.32s]  Er gibt sich enorm didaktisch,
+[1456.32s -> 1458.82s]  verschweigt seine belehrende Absicht,
+[1460.32s -> 1461.82s]  weigert sich also,
+[1462.32s -> 1464.32s]  das, was er zu mitteilen hat,
+[1464.32s -> 1466.32s]  an dem überhaupt messen zu lassen,
+[1466.32s -> 1468.32s]  was es dem Inhalt nach ist.
+[1468.32s -> 1470.32s]  Behauptet, ganz abstrakt,
+[1470.32s -> 1472.32s]  seine Mitteilungen gingen absolut in Ordnung,
+[1472.32s -> 1474.32s]  sie stünden außer Frage.
+[1474.32s -> 1476.32s]  Die Formel hier heißt,
+[1476.32s -> 1478.32s]  im Dienste der Sitten Lehre.
+[1478.32s -> 1480.32s]  Und behauptet zweitens,
+[1480.32s -> 1482.32s]  dass sein Lehrstoff ganz versenkt sei,
+[1482.32s -> 1484.32s]  ganz in dem aufgehend,
+[1484.32s -> 1486.32s]  in dem er aufgehend,
+[1486.32s -> 1488.32s]  in dem er aufgehend,
+[1488.32s -> 1490.32s]  in dem er aufgehend,
+[1490.32s -> 1492.32s]  ganz in dem Aufgeh,
+[1492.32s -> 1494.32s]  was er hier schildert,
+[1494.32s -> 1498.32s]  als feine Abschilderung der Gemüter und Leidenschaften.
+[1500.32s -> 1502.32s]  Diese Gemüter und Leidenschaften,
+[1502.32s -> 1504.32s]  die entstammen dem Bedürfnis von oben,
+[1506.32s -> 1510.32s]  sich die Botschaft als sinnfällige zu imaginieren,
+[1510.32s -> 1512.32s]  das sind die konstruierten Fälle,
+[1512.32s -> 1514.32s]  Handlungen, Schauspiele auf der Bühne.
+[1514.32s -> 1516.32s]  Einerseits will der Dichter also
+[1516.32s -> 1518.32s]  das wesentliche mitteilen.
+[1520.32s -> 1522.32s]  Eine Lehre sagen,
+[1522.32s -> 1524.32s]  auf die es ankommen soll.
+[1524.32s -> 1526.32s]  auf die es ankommen soll.
+[1526.32s -> 1528.32s]  Andererseits
+[1528.32s -> 1530.32s]  Andererseits
+[1530.32s -> 1532.32s]  soll an dieser Lehre gar
+[1532.32s -> 1534.32s]  nicht es selbst,
+[1534.32s -> 1536.32s]  sondern der Dichter
+[1536.32s -> 1538.32s]  als den Übersetzer dieser Lehre
+[1538.32s -> 1540.32s]  in schöne Bilder
+[1540.32s -> 1542.32s]  in fantasierte Handlungen,
+[1542.32s -> 1549.38s]  Das Entscheidende soll sein, der Dichter als poetisierender Formgeber des Stoffs.
+[1552.38s -> 1570.94s]  Das ist lustig, herauskommt, dass ein Bild, das der Dichter ersinnt, das Überzeugungsmittel, die Werbekraft einer Einsicht in was ganz anderes sein soll.
+[1572.32s -> 1580.82s]  Ein fein abgeschildertes Gemüt aussieht Dichters Fantasie, das etwas vorstellig machen soll.
+[1580.82s -> 1600.32s]  Soll der Bürger dafür sein, dass dem, was er vorstellig macht, wir sind hier noch bei dieser Sittenlehre, auch unabhängig von den Bürgern, von dem fantasierten Mensch, der Rang eines an sich mitteilenswerten Gedankens zukommt.
+[1602.32s -> 1609.66s]  Diese Zwitterigkeit des dichterischen Anspruchs existiert zweitens natürlich auch an seinen Produkten.
+[1612.32s -> 1627.06s]  Seine Erzählungen, der imaginierte Handlungsstoff auf der Bühne, existiert ja bloß dem Vorhaben nach als so etwas wie ein lebensnah imaginierter Stoff.
+[1628.44s -> 1631.22s]  Dieser Stoff sind die Prinzipien.
+[1632.32s -> 1640.08s]  Und die werden durch die Handlung, durch die Figur, als lebensnah konstruiert vorgeführt.
+[1641.42s -> 1649.84s]  Die ganzen Gemüter und Leidenschaften sind ja überhaupt auf das Vorstelligmachen dieses Prinzips hin ersonnen.
+[1651.68s -> 1654.22s]  Das soll ja in ihnen irgendwie transparent werden.
+[1657.10s -> 1662.30s]  Das Blöde ist, dass darüber natürlich das schöne Prinzip, und das ist eigentlich das, was wir hier in der Bibel sehen, das ist das, was wir hier in der Bibel sehen.
+[1662.30s -> 1662.38s]  Das Prinzip, das wir hier in der Bibel sehen, das ist das, was wir hier in der Bibel sehen.
+[1662.38s -> 1671.42s]  Das Prinzip, das wir hier in der Bibel sehen, das soll eben dann bloß in der Welt des Theaters, eben dann bloß in der Figur, die es vorstellt, existiert.
+[1673.40s -> 1679.74s]  Es hat dann eben bloß seine Existenz in dem vorgeführten Fall, in dem Gemüt, in dem Charakter.
+[1682.96s -> 1688.54s]  Damit steht auch nach der dritten Seite, dem Publikum hin, das Prinzip fest,
+[1688.54s -> 1696.78s]  nachdem das geistige Verarbeit des gedichteten Botschaftsstoffs, der Lehre, vonstatten geht.
+[1698.98s -> 1708.16s]  Was Lessing und seine Nachfolger so vornehm Belehrung, Erbauung oder der Idee nach geistige Veredelung heißen,
+[1710.32s -> 1716.90s]  es ist der Sache nach nichts weiter als das Wiedererkennen des Prinzips,
+[1716.90s -> 1724.18s]  für das die Dramatis Personae, also die Charakterköpfe auf der Bühne, stehen und handeln.
+[1725.24s -> 1734.84s]  Es ist das Auslegen einer vorgestellten Figur, einer Handlung, auf die Idee hin,
+[1736.48s -> 1739.50s]  für die überhaupt diese Vorstellung inszeniert wurde.
+[1741.02s -> 1746.50s]  Es ist eben nicht mehr als das Kennenlernen eines Prinzips.
+[1746.90s -> 1750.48s]  Es gibt eine Idee in der Form fast wie im richtigen Leben.
+[1753.50s -> 1757.60s]  Die entschiedenen Vertreter, die Künstler dieses Schwindelmanövers,
+[1758.82s -> 1765.30s]  nochmal, ein Dichter, der was sagen will, aber wer drauflegt, ohne sein Wie des Sagens, wäre es nichts.
+[1767.12s -> 1771.20s]  Eine Inszenierung, zweiter Punkt, der zu sagenden Lehre und Botschaft,
+[1771.84s -> 1776.20s]  ausgerechnet als Beweis dafür, dass die Botschaft,
+[1776.90s -> 1782.86s]  überhaupt eine Wehr, also auch ohne dieses Beweismittels, maßgeblich und wesentlich sei,
+[1784.06s -> 1788.50s]  plus ein Publikum, das das Wiedererkennen des Sins,
+[1789.24s -> 1792.34s]  anhand des mit ihm geschwängerten Handlungsstoffes auf der Bühne,
+[1793.38s -> 1798.24s]  theoretisch begreifen und praktisch sich eingängig machen lassen soll.
+[1800.20s -> 1804.90s]  Das entschiedene Plädoyer hierfür ist die Programmatik des Kunststandpunkts,
+[1804.90s -> 1806.88s]  der sich bei Lessing verabschiedet.
+[1806.90s -> 1815.22s]  Er berichtet als Literaturkritiker über eine Aufführung, die er beigewohnt hat.
+[1816.88s -> 1821.30s]  Zwei der gleichen Zeilen in dem ersten Akte hatten eine besondere Wirkung auf mich.
+[1821.98s -> 1825.72s]  Die eine, der Himmel kann verzeihen, allein ein Priester nicht.
+[1826.52s -> 1830.20s]  Die andere, wer schlimm vom anderen denkt, ist selbst ein Bösewicht.
+[1832.38s -> 1835.90s]  Ich war betroffen, in dem Parterre eine allgemeine Bewegung,
+[1835.90s -> 1841.50s]  um dasjenige Gemurmel zu bemerken, durch welches sich der Beifall ausdrückt,
+[1841.68s -> 1844.16s]  wenn ihn die Aufmerksamkeit nicht gänzlich ausbrechen lässt.
+[1844.88s -> 1848.60s]  Teils dachte ich, vortrefflich, man liebt hier die Moral.
+[1849.18s -> 1851.20s]  Dieses Parterre findet Geschmack an Maximen.
+[1851.82s -> 1856.68s]  Auf dieser Bühne könnte sich Euripides Ruhm erwerben und ein Sokrates würde sie gern besuchen.
+[1858.82s -> 1860.06s]  Mal bis hierher.
+[1862.74s -> 1865.28s]  Ist lustig, was der Lessing hier über das Publikum sagt.
+[1865.90s -> 1875.94s]  Dem ist, dem Vernehmen nach, eine Maxime gesagt worden und ein beifälliges Gemurmel bestätigt einen Volltreffer.
+[1877.70s -> 1881.60s]  Es ist das eingestandene Dementi der Prätention von vorhin,
+[1882.60s -> 1888.32s]  das auf dem Theater das Institut sei, wo man anderen Leuten Lehren vermittelt.
+[1890.32s -> 1894.94s]  Hier im Parterre sitzen Menschen mit Sinn für moralische Maximen.
+[1894.94s -> 1895.74s]  Das heißt, ziemlich...
+[1895.90s -> 1900.30s]  ...dem Vernehmen nach ausgebildet, bereits im Scheiden nach Gut und Böse.
+[1901.56s -> 1904.46s]  Und die fahren auch voll bloß auf die moralischen Sentenzen ab.
+[1905.22s -> 1907.54s]  Wenigstens hier, aus dem geht's hervor.
+[1909.38s -> 1915.54s]  Teils fiel mir zugleich auf, wie schielend, wie falsch, wie anstößig diese vermeinten Maximen wären.
+[1916.10s -> 1922.10s]  Und ich wünschte sehr, dass die Missbilligung an jenem Gemurmel den meisten Anteil möglich gehabt haben.
+[1923.10s -> 1924.66s]  Es ist nur ein Athen gewesen.
+[1924.66s -> 1925.74s]  Es wird nur ein Athen bleiben.
+[1925.74s -> 1930.06s]  Wo auch bei dem Pöbel das sittliche Gefühl so fein, so zärtlich war,
+[1930.62s -> 1934.64s]  dass einer unlauteren Moral wegen Schauspieler und Dichter Gefahr liefen,
+[1934.74s -> 1936.70s]  von dem Theater herabgestürmet zu werden.
+[1937.98s -> 1942.68s]  Ich weiß wohl, die Gesinnungen müssen in dem Drama den angenommenen Charakter der Person,
+[1943.10s -> 1944.38s]  welche sie äußert, entsprechen.
+[1945.38s -> 1948.08s]  Sie können also das Siegel der absoluten Wahrheit nicht haben.
+[1948.80s -> 1950.64s]  Genug, wenn sie poetisch wahr sind.
+[1953.70s -> 1955.72s]  Wenn wir gestehen müssen, dass diese Musik, die wir hier hören,
+[1955.74s -> 1958.68s]  dieser Charakter in dieser Situation, bei dieser Leidenschaft,
+[1959.06s -> 1961.18s]  nicht anders als so habe urteilen können.
+[1962.50s -> 1967.56s]  Auch diese poetische Wahrheit muss sich auf der anderen Seite der Absoluten wiederum nähern.
+[1968.32s -> 1971.18s]  Und der Dichter muss nie so unphilosophisch denken, dass er annimmt,
+[1971.70s -> 1974.50s]  ein Mensch könne das Böse um des Bösen legen wollen.
+[1975.08s -> 1977.22s]  Er könne nach lasterhaften Grundsätzen handeln,
+[1977.72s -> 1981.74s]  das Lasterhafte derselben erkennen und doch gegen sich und andere damit prahlen.
+[1983.42s -> 1985.72s]  Dem Lessing, das geht aus dem Fortgang hervor.
+[1985.74s -> 1987.74s]  Den habe ich weggelassen.
+[1988.56s -> 1991.56s]  Dem gefällt diese zweite Maxime nicht.
+[1992.42s -> 1995.42s]  Man kann nicht alle Priester über einen Kamm scheren, sagt er.
+[1996.62s -> 1998.62s]  Wichtig daran ist es jetzt wurscht.
+[1999.26s -> 2004.62s]  Wichtig daran ist, wie er sein Missbehagen ausdrückt.
+[2007.30s -> 2014.92s]  Er behauptet, einerseits soll diese Maxime ja bloß dem Charakter entspringen,
+[2015.74s -> 2017.74s]  der sie auf dem Theater sagt.
+[2019.68s -> 2025.88s]  Andererseits soll doch genau dieser Charakter das Institut sein,
+[2026.34s -> 2032.74s]  die Quelle sein, aus dem sowas wie, er drückt so aus, die absolute Wahrheit entspringt.
+[2035.74s -> 2038.24s]  Das soll doch, so ist er ja eingeführt,
+[2039.08s -> 2043.32s]  als das Ensemble all seiner geistigen und sonstigen charakterlichen Regungen,
+[2043.32s -> 2054.26s]  dafür bürgen, was absolut, also, von ihm gänzlich unabhängig, zu glauben sei,
+[2056.00s -> 2058.00s]  wovon man sich zu überzeugen habe.
+[2058.36s -> 2067.36s]  Der Schluss, den aus diesem Widerspruch zieht, ist Synthese aus beiden Seiten.
+[2067.94s -> 2071.94s]  Das ist seine Kategorie der Poetischen Wahrheit.
+[2071.94s -> 2091.62s]  Das ist eine erzwischende Schwindelwelt und die ist überhaupt der Dreh- und Angelpunkt der Lessingchen und überhaupt der Motor aller späteren Kunst.
+[2091.62s -> 2116.10s]  Das ist das recht uneinholbare Ideal in der bühnenmäßigen Ausstattierung, in der Staffage einer Handlung, in der Darbietung eines nach einer Idee möglichst überzeugend gestrickten Lebens, Schicksals, irgendeines Standpunkts, eines Höheren.
+[2118.10s -> 2121.60s]  Da soll sowas stehen wie der unbezogene.
+[2121.62s -> 2125.32s]  Es gibt keine zweifelbare Bürge, dass diese Idee auch schon Hand und Fuß hat.
+[2129.10s -> 2143.10s]  Das ist ein programmatischer Schwindel, das ist ein theatermäßig inszeniertes Als-ob, einer Gültigkeit von einem Ideellen dahinter schlechthin,
+[2146.10s -> 2150.04s]  das man abkaufen soll, weil es inszeniert ist.
+[2151.62s -> 2164.80s]  Und für die Kunst existiert genau dieser Schwindel als ihr Ideal, als ihr Zweck, an dem arbeitet sie mit allen Mitteln der fantasievollen Stilisierung.
+[2166.34s -> 2178.02s]  Das erfordert von der hohen Schauspielkunst zuallererst einen versierten Umgang mit den Techniken, die man gemeinhin aus dem Inventar der Heuchelei kennt, vorwärts und rückwärts.
+[2179.50s -> 2181.60s]  Jede Moral ist ein allgemeiner Satz.
+[2181.62s -> 2186.78s]  Ein allgemeiner Satz, der als solcher einen Grad von Sammlung der Seele und ruhiger Überlegung verlangt.
+[2187.62s -> 2191.18s]  Er will also mit Gelassenheit und einer gewissen Kälte gesagt sein.
+[2192.58s -> 2199.86s]  Allein dieser allgemeine Satz ist zugleich das Resultat von Eindrücken, welche individuelle Umstände auf die handelnden Personen machen.
+[2200.90s -> 2208.98s]  Er ist kein bloßer symbolischer Schluss, er ist eine generalisierte Empfindung und als diese will er mit Feuer und einer gewissen Begeisterung gesprochen sein.
+[2211.62s -> 2226.28s]  Das ist die Proklamation eines Werts als Einsicht, die Gültigkeit, Geltung beansprucht, weil der Wert eben ein Wert ist.
+[2227.62s -> 2237.40s]  Dann aber schon auch hinstellen und den Gestus produzieren, dass man selber doch überhaupt in keiner Weise einen Wert proklamiert habe,
+[2238.66s -> 2241.60s]  dass der zwar für einen selbst und für alle anderen, die sich in der Welt befinden, nicht ein Wert ist.
+[2241.62s -> 2255.46s]  Und dass für alle anderen beanspruchte Geltungstitel bloß Resultat all dessen sei, was einem so als Individuum, wie es lebt und lebt, als Schatz der Erfahrungen zugewachsen ist.
+[2258.80s -> 2266.86s]  Zusammen ist es die Prätention, die Propaganda eines Ehrentitels, eines großen Werts aus der Welt der sittlichen Pflichten,
+[2266.86s -> 2270.66s]  sei keine Propaganda, sondern
+[2270.66s -> 2278.70s]  bloß sinnfälliger Ausfluss reiner Menschlichkeit, eines Charakters.
+[2280.08s -> 2292.06s]  Und zweitens, die Equivität, die hier zuschlägt, ist bloß eine, so gibt sie sich auch, die bloß diesem hohen Titel das Wort redet.
+[2293.64s -> 2299.94s]  Vom geschätzten Publikum, übrigens damals wie heute auch, erfordert sowas,
+[2300.66s -> 2305.60s]  Genüsse der höheren Art, zumindest das Aushalten derselben.
+[2308.96s -> 2322.18s]  Berühmt hierfür ist ein Trauerspiel, Sarah Samson, dessen Inhalt, wenn man es mal objektiv nimmt, ein wenig zum Totlachen ist.
+[2324.04s -> 2330.40s]  Da geht es um eine enorm trugendhafte Sarah Samson, die mit ihrem Geliebten,
+[2330.66s -> 2337.66s]  aufs Land flieht, und die im Grunde bloß eins denkt, sie will möglichst schnell die Hochzeit haben.
+[2339.56s -> 2345.96s]  Zweitens denkt sie daran, dass sie ein ungeheures Verbrechen begangen hat,
+[2347.06s -> 2351.54s]  in dem sie die Pflicht, einem Vater zu verweilen, verletzt hat.
+[2353.78s -> 2356.94s]  Ihr Liebhaber, der will natürlich auch sie heiraten, hat aber noch eine Bedingung,
+[2356.94s -> 2360.40s]  der muss erst mal irgendeinen Kontrakt machen und dann eine Erbschaft.
+[2360.66s -> 2363.66s]  Er muss die Gelegenheit regeln, und dann ging es dann los.
+[2366.26s -> 2372.26s]  Beide wollen die Ehe, ist klar. Der eine ist stur und rigoros, der andere weniger.
+[2376.26s -> 2382.26s]  Sarah Samson leidet schwer, ihr Vater leidet sehr darunter, der ihr.
+[2382.26s -> 2390.26s]  Kriecht darauf von der lieben Tochter den Vorwurf, schlechte Verzeihung wäre so einfach uns gemein.
+[2390.66s -> 2394.26s]  Weil dann hättest du nämlich nichts mehr zum Wiedergutmachen.
+[2394.26s -> 2398.26s]  Und das wäre überhaupt die einzige Methode, wie sie ihr Gewissen beruhigen könnte.
+[2398.26s -> 2403.26s]  Worauf sie vom Vater den Vorwurf kassiert, das wäre doch selbstsüchtig.
+[2403.26s -> 2409.26s]  Das leuchtet ihr dann schwer ein, woraufhin sie sich verzeihen lässt.
+[2411.26s -> 2419.26s]  Es geht trotzdem nicht gut aus, weil eine frühere Geliebte von diesem Liebhaber, die Sarah vergiftet.
+[2420.66s -> 2429.26s]  Die vergibt ihr dafür dann, sterbend, wodurch der hiervon gerührte Vater, Sarah Samson,
+[2429.26s -> 2433.26s]  den Liebhaber an so einer Stadt annimmt.
+[2433.26s -> 2440.26s]  Das hält dieser nicht aus. Ich kann das nur mit Selbstmord beantworten.
+[2440.26s -> 2444.26s]  Was er macht, nicht ohne vorher um Gnade gebeten zu haben.
+[2444.26s -> 2450.26s]  Woraufhin der Vater die Tochter seiner früheren Geliebten,
+[2450.26s -> 2457.26s]  um die alle Sterbenden noch selbstlos besorgt waren, selbstlos adoptiert.
+[2457.26s -> 2462.26s]  Bis die einzelnen Tötungsdelikte und die guten Taten vorbei sind,
+[2462.26s -> 2469.26s]  ist die sogenannte Handlung eine einzige Inszenierung des Lessing'schen Kunstprogramms.
+[2469.26s -> 2476.26s]  Maxime, Lehrsatz, Botschaft, die eine Kategorie, auf die es ankommt,
+[2476.26s -> 2480.26s]  heißt hier Ehe, heißt Tugend, heißt Vaterliebe, Liebe.
+[2480.26s -> 2486.26s]  Und die hat ihre Wahrheit in dem Stück darin,
+[2486.26s -> 2492.26s]  dass Charaktere, vorwiegend diese Sarah Samson, herumlaufen,
+[2492.26s -> 2496.26s]  die andauernd dem Publikum mitteilen,
+[2496.26s -> 2500.26s]  dass in der Tat all ihre Leidenschaften, all ihre Empfindungen,
+[2500.26s -> 2503.26s]  also all das, was das Publikum halt mitkriegt,
+[2503.26s -> 2509.26s]  nichts anderes sein sollen, als die Erscheinungsform des Umstands,
+[2509.26s -> 2514.26s]  dass das betreffende Wesen, was es so gibt,
+[2514.26s -> 2518.26s]  höchlichst diesem Maximen verpflichtet ist
+[2518.26s -> 2523.26s]  und an sich selbst nur immer einen Verstoß
+[2523.26s -> 2529.26s]  gegen diese höheren Pflichten zur Anschauung bringt.
+[2529.26s -> 2533.26s]  Ja, das geht halt...
+[2533.26s -> 2537.26s]  Das dramatische Mittel ist das Schluchzen.
+[2537.26s -> 2539.26s]  Es kommt einer schluchzt.
+[2539.26s -> 2542.26s]  Es kommt ein Dialog in Gang,
+[2542.26s -> 2545.26s]  in dem er mitteilt, warum er schluchzt.
+[2545.26s -> 2548.26s]  Und der Dialog geht halt dann weiter,
+[2548.26s -> 2554.26s]  dass er begründet, warum er zu Recht hat schluchzen müssen.
+[2554.26s -> 2557.26s]  Eine Kostprobe hieraus,
+[2557.26s -> 2560.26s]  das in dem siebten Auftritt das Stück ist,
+[2560.26s -> 2565.26s]  sechs Seiten lang, acht Personen waren da, drei haben geheult.
+[2565.26s -> 2568.26s]  Und er schluchzt und tritt auf
+[2568.26s -> 2572.26s]  und ist ein einziger Vorwurf an ihren Geliebten,
+[2572.26s -> 2574.26s]  also die zwei spielen jetzt gerade.
+[2574.26s -> 2577.26s]  Und sie sagt ihm, ich muss auch immer klagen.
+[2577.26s -> 2582.26s]  Der Geliebte, an der Stelle korrekt,
+[2582.26s -> 2585.26s]  vermerkt, aha, ein Vorwurf,
+[2585.26s -> 2588.26s]  du hast mir nicht vergeben.
+[2588.26s -> 2592.26s]  Sarah Samson, tugendhaft, vergeben ich aber immer, klar,
+[2592.26s -> 2594.26s]  aber ich muss halt klagen.
+[2594.26s -> 2597.26s]  Der Geliebte setzt seinen Joker und fragt,
+[2597.26s -> 2600.26s]  zweifelst du gar an der Liebe?
+[2600.26s -> 2603.26s]  Dann sagt Sarah, die Gute,
+[2603.26s -> 2607.26s]  natürlich zweifle ich nie und nimmer an der Liebe.
+[2607.26s -> 2611.26s]  Es versteht man dann wirklich nicht mehr, was sie dann hat.
+[2611.26s -> 2618.26s]  Also, Lessing hat das natürlich auch kapiert,
+[2618.26s -> 2620.26s]  lässt sie ans Publikum sagen,
+[2620.26s -> 2622.26s]  also im Prinzip der Melle von ihrem Geliebten gegenüber,
+[2622.26s -> 2623.26s]  aber es ist halt eine Botschaft ans Publikum,
+[2623.26s -> 2630.26s]  und der Charakter, Sarah Samson stellt sich vor
+[2630.26s -> 2633.26s]  und sagt, ich bin ein Konflikt.
+[2633.26s -> 2637.26s]  Das heißt so, umsonst habe ich es nur wieder
+[2637.26s -> 2639.26s]  erst im gestrigen langen Abend versucht,
+[2639.26s -> 2642.26s]  ihre, dem Geliebten seine, Begriffe anzunehmen
+[2642.26s -> 2644.26s]  und die Zweifel aus mich das erste Mal
+[2644.26s -> 2647.26s]  für Früchte meines Misstrauens angesehen haben.
+[2647.26s -> 2649.26s]  Ich streck mit mir selbst.
+[2649.26s -> 2651.26s]  Ich war sinnreich genug, meinen Verstand zu betäuben,
+[2651.26s -> 2652.26s]  aber mein Herz schloss.
+[2652.26s -> 2654.26s]  Aber mein Herz und mein inneres Gefühl
+[2654.26s -> 2658.26s]  warfen auf einmal das mühsame Gebäude von Schlüssen über den Haufen.
+[2658.26s -> 2661.26s]  Mitten aus dem Schlaf erweckten mich strafende Stimmen,
+[2661.26s -> 2664.26s]  mit welchen sich meine Fantasie, mich zu quälen, verband.
+[2664.26s -> 2667.26s]  Was für Bilder, was für schreckliche Bilder schwärmten um mich herum,
+[2667.26s -> 2669.26s]  ich wollte sie gern für Träume halten.
+[2669.26s -> 2672.26s]  Hier schreitet der Geliebte ein
+[2672.26s -> 2675.26s]  und möchte gern zu verstehen geben,
+[2675.26s -> 2678.26s]  mein liebes Kind, hab dich nicht so,
+[2678.26s -> 2681.26s]  hör dich nicht so auf, Fantasien sind Fantasien,
+[2681.26s -> 2686.26s]  und komm zu einem vernünftigen Urteil.
+[2686.26s -> 2691.26s]  Jetzt muss der Charakter sagen,
+[2691.26s -> 2695.26s]  ja, versteh mich gut, ich kann nicht anders,
+[2695.26s -> 2701.26s]  weil ich durchleb an mir in all meinen Regungen,
+[2701.26s -> 2705.26s]  dass ich der einzige Verstoß gegen meine Pflicht bin.
+[2705.26s -> 2709.26s]  Der Charakter sagt, klagen Sie den Himmel nicht an.
+[2709.26s -> 2712.26s]  Er hat die Einbildungen in unserer Gewalt gelassen.
+[2712.26s -> 2714.26s]  Sie richten sich nach unseren Taten,
+[2714.26s -> 2717.26s]  und wenn diese unseren Pflichten und der Tugend gemäß sind,
+[2717.26s -> 2719.26s]  so dienen die sie begleitenden Ein-
+[2719.26s -> 2725.26s]  Die man aus dem Schluss des letzten Zitats kennt.
+[2725.26s -> 2729.26s]  Da war die Programmatik, ja, was hat denn ein Schauspieler zu leisten,
+[2729.26s -> 2732.26s]  da hieß es, er ist eine generalisierte Empfindung,
+[2732.26s -> 2735.26s]  und als diese, der moralische Schluss,
+[2735.26s -> 2737.26s]  das moralische Urteil, den der Schauspieler zu vertreten hat,
+[2737.26s -> 2740.26s]  er ist eine generalisierte Empfindung,
+[2740.26s -> 2745.26s]  und als diese will er mit Feuer und einer gewissen Begeisterung gesprochen sein,
+[2745.26s -> 2748.26s]  und genau das sagt sie, ich bin ein Stück Feuer,
+[2748.26s -> 2752.26s]  ich bin ein bisschen begeistert, bloß eben andersrum.
+[2752.26s -> 2756.26s]  Es ist einerseits natürlich nicht die Darstellung eines Charakters,
+[2756.26s -> 2761.26s]  was hier passiert, sondern die Verlebendigung der Methode,
+[2761.26s -> 2766.26s]  die von Lessing ersonnen wurde, als was ein Charakter auf der Bühne aufzutreten habe.
+[2767.26s -> 2772.26s]  Andererseits soll man dieser methodischen Inszenierung
+[2772.26s -> 2778.26s]  das Gegenteil abnehmen, die Person, wie ihr sah,
+[2778.26s -> 2782.26s]  als Charakter würdigen, wie er lebt und lebt.
+[2782.26s -> 2790.26s]  Es ist in Erinnerung an den Ausgangspunkt
+[2790.26s -> 2796.26s]  Stichwort poetische Wahrheit, wo es ja darum ging,
+[2796.26s -> 2801.26s]  überzeugen darzubieten, dass so etwas wie moralische Pflicht,
+[2801.26s -> 2804.26s]  wie hohe Ideen der menschlichen Sittlichkeit,
+[2804.26s -> 2811.26s]  so richtig den Menschen durchleben, ein wenig flau.
+[2811.26s -> 2820.26s]  Das ist nicht mein Urteil, sondern das ist das Urteil von Kollegen von Lessing,
+[2820.26s -> 2825.26s]  von Freunden dieses poetischen Kniffs,
+[2826.26s -> 2833.26s]  auf der Bühne den zu veredelnden Menschen vorstellig zu machen.
+[2833.26s -> 2839.26s]  Gerade weil der Schwindel dieser poetischen Wahrheit,
+[2839.26s -> 2844.26s]  die bekannten menschlichen Ideale schöpferisch anzugehen
+[2844.26s -> 2849.26s]  und für sie zu werben, indem man leibhaftige menschliche Charaktere
+[2849.26s -> 2854.26s]  auf die Bühne zerbt, es ihnen schwer angetan hat,
+[2854.26s -> 2858.26s]  kamen in dieser Schwindel, in der Lessing'schen Urform,
+[2858.26s -> 2864.26s]  ein wenig hölzern vor, ein wenig unschöpferisch,
+[2864.26s -> 2867.26s]  ein wenig unüberzeugend.
+[2867.26s -> 2871.26s]  Die haben sich gedacht, na ewig die familiäre Theaterwelt,
+[2871.26s -> 2874.26s]  wo der sich eingenistet hat.
+[2874.26s -> 2878.26s]  Das ist ein wenig zu niedlich, ein wenig zu klein pariert,
+[2878.26s -> 2882.26s]  ein wenig zu eng für die Idee, um die es da geht.
+[2882.26s -> 2891.26s]  Ewig nur moralische Maximen vorzuführen,
+[2891.26s -> 2894.26s]  die das moralische Gemüt bloß immer nur rühren sollen.
+[2894.26s -> 2898.26s]  Es schien ihnen ein wenig zu unideell,
+[2898.26s -> 2904.26s]  ein bisschen zu unideell, angesichts der Großartigkeit der Idee,
+[2904.26s -> 2907.26s]  die hier walten sollte, deren Programmatik ja heißt,
+[2907.26s -> 2911.26s]  die vorgestellte moralische Pflicht in ihr aufzugehen,
+[2911.26s -> 2914.26s]  sie in aller Freiheit zu wollen.
+[2914.26s -> 2917.26s]  Und schließlich die von Lessing
+[2917.26s -> 2923.26s]  dabei ständig bemühte Läuterungsabsicht des Publikums,
+[2923.26s -> 2928.26s]  das schien seinen nachfolgenden Kollegen erst recht sehr banal,
+[2928.26s -> 2931.26s]  wenn sie so praktisch mit diesem moralischen Wirkungsanspruch
+[2931.26s -> 2934.26s]  versehen daherkamen.
+[2934.26s -> 2940.26s]  Wenn schon mit der poetischen Wahrheit in dieser Zwischenkategorie
+[2940.26s -> 2943.26s]  eine Instanz geboren wurde,
+[2943.26s -> 2950.26s]  in der es dicht als Fantasie für die Wahrheit dessen steht,
+[2950.26s -> 2955.26s]  was er poetisch zu vermelden hat oder als Lehre zu vermelden hat,
+[2955.26s -> 2964.26s]  dann ist diese Unlösbarkeit des poetischen Ideals
+[2964.26s -> 2967.26s]  für jeden, dem dieses Ideal einleuchtet,
+[2967.26s -> 2969.26s]  ein einziger Auftrag zu verbessern.
+[2969.26s -> 2975.26s]  Der will es dann lösen, was nichts anderes heißt,
+[2975.26s -> 2980.26s]  als die Grundfigur dieser Idee überzeugend zur Anschauung zu bringen.
+[2980.26s -> 2986.26s]  Der strickt und arbeitet und feilt an Charakteren,
+[2986.26s -> 2993.26s]  die im Theater möglichst nicht verraten sollen,
+[2993.26s -> 2997.26s]  dass sie bloß die Glaubhaftmacher eines ideellen Programms sind,
+[2997.26s -> 3005.26s]  obwohl sie anders gar nicht ins Theater gekommen sind.
+[3005.26s -> 3011.26s]  Deren Handlung sollte möglichst nicht ein bloßer Exemplifizierungsfall sein,
+[3011.26s -> 3015.26s]  einer ansonsten auch schon bekannten Botschaft,
+[3015.26s -> 3021.26s]  sondern man hätte den doch, ums Verrecken unbedingt und zwingend abzukaufen,
+[3021.26s -> 3025.26s]  dass in ihrem Handeln und auch wirklich nur in ihrem Handeln,
+[3025.26s -> 3030.26s]  die dahinterstehende Botschaft zu haben ist,
+[3030.26s -> 3033.26s]  das dahinterliegende höhere menschliche Prinzip.
+[3033.26s -> 3039.26s]  Es stand an und wurde geschafft,
+[3039.26s -> 3043.26s]  die klassische Geburt des ideellen Gesamtmenschen.
+[3043.26s -> 3051.26s]  Der liegt zuallererst mal, das ist konsequent,
+[3051.26s -> 3053.26s]  kommt aus der Natur der Sache her,
+[3053.26s -> 3057.26s]  der liegt, dieser klassische Gesamtmensch,
+[3057.26s -> 3061.26s]  zuallererst mal in der Person des Dichters.
+[3061.26s -> 3068.26s]  Schädlicher als Beispiele sind dem Genius Prinzipien.
+[3068.26s -> 3074.26s]  Vor ihm mögen einzelne Menschen einzelne Teile bearbeitet haben.
+[3074.26s -> 3077.26s]  Er ist der Erste, aus dessen Seele die Teile
+[3077.26s -> 3081.26s]  in ein ewiges Ganzes zusammengewachsen hervortreten.
+[3081.26s -> 3086.26s]  Aber Schule und Prinzipium fesselt alle Kraft der Erkenntnis und Tätigkeit.
+[3086.26s -> 3090.26s]  Bemerke schon die Differenz zu Lessing.
+[3090.26s -> 3095.26s]  Der war ja noch ein wenig, trotz der Aberwitzigkeit seiner Erfindung,
+[3095.26s -> 3099.26s]  trotz der Haltlosigkeit, gedanklich gesehen, seines Anspruchs,
+[3099.26s -> 3103.26s]  der war schon noch ein wenig bescheidener und hat gesagt,
+[3103.26s -> 3107.26s]  ich stehe in all meinem Tun und Lassen voll
+[3107.26s -> 3110.26s]  und gehe ganz darin auf im Dienste der Sittlichkeit.
+[3110.26s -> 3113.26s]  Der Sittenlehre.
+[3113.26s -> 3119.26s]  Hier tritt einer an und sagt mit zwei krummen Sätzen über Teil und Ganz,
+[3119.26s -> 3123.26s]  sagt nicht wovon Teil, was Ganz, was das soll,
+[3123.26s -> 3128.26s]  tritt einer an und geht ganz in der Prätention auf,
+[3128.26s -> 3132.26s]  die heißt, ich bin die Weltenordnung.
+[3132.26s -> 3137.26s]  In mir liegt die Ordnung von allen begründet.
+[3137.26s -> 3139.26s]  Insofern will er,
+[3139.26s -> 3144.26s]  insofern will er sich irgendwelchen feststehenden Prinzipien nicht beugen,
+[3144.26s -> 3149.26s]  will sich, das ist Kunst immanent, fortbewegungsmäßig zwangsläufig,
+[3149.26s -> 3152.26s]  er will sich an die als vorderen Regeln nicht halten,
+[3152.26s -> 3156.26s]  die die aufgestellt haben, wenn er Poesie machen muss.
+[3156.26s -> 3159.26s]  Er will sich aber auch nicht, uns verrecken nicht,
+[3159.26s -> 3163.26s]  als bloßer Diener an eine Idee verstehen.
+[3163.26s -> 3167.26s]  Dabei besteht der Stoff,
+[3167.26s -> 3172.26s]  besteht der Stoff seiner ganzen Angeberei,
+[3172.26s -> 3176.26s]  in der Tat bloß in der Überhöhung dessen,
+[3176.26s -> 3181.26s]  was wir schon in Form dieser poetischen Wahrheit von Lessing wissen.
+[3181.26s -> 3184.26s]  Goethe über Shakespeare.
+[3184.26s -> 3188.26s]  Aber seine Stücke drehen sich alle um den geheimen Punkt,
+[3188.26s -> 3191.26s]  den noch kein Philosoph gesehen und bestimmt hat,
+[3191.26s -> 3194.26s]  in dem das Eigentümliche unseres Ichs,
+[3194.26s -> 3196.26s]  die präsentierte Freiheit unseres Wollens,
+[3196.26s -> 3199.26s]  mit dem notwendigen Gang des Ganzen zusammenstößt.
+[3199.26s -> 3202.26s]  Der Fortschritt ist,
+[3202.26s -> 3205.26s]  dass hier der Standpunkt der poetischen Wahrheit,
+[3205.26s -> 3210.26s]  also diese fiktive Vorstellungsschiffe
+[3210.26s -> 3214.26s]  des Zusammenfallens von höherer Pflicht und Freiheit des Willens,
+[3214.26s -> 3220.26s]  dass hier das verrätelt wird zu einem geheimen Punkt,
+[3220.26s -> 3224.26s]  von keinem jemals begriffen gesehen,
+[3224.26s -> 3233.26s]  ein Telos allerdings des Goethe'schen Strebens.
+[3233.26s -> 3240.26s]  Während der Goethe mit einer Grandezza dieser Art
+[3240.26s -> 3243.26s]  seine Charaktere schuf,
+[3243.26s -> 3248.26s]  die aus sich heraus bezeugen sollten,
+[3248.26s -> 3254.26s]  dass sie Figuren eines hinter ihnen stehenden geistigen Prinzipes sind,
+[3254.26s -> 3260.26s]  die das an sich möglichst unwidersprechlich bewahrheiten sollten,
+[3260.26s -> 3268.26s]  verdanken wir Schiller ausgerechnet noch die Bemühung,
+[3268.26s -> 3276.26s]  diese Perfektionierung des Standpunkts der poetischen Wahrheit
+[3276.26s -> 3279.26s]  auch noch philosophisch begründen zu wollen.
+[3279.26s -> 3282.26s]  Der Nachweis,
+[3282.26s -> 3285.26s]  dass das Ideelle,
+[3285.26s -> 3288.26s]  bei dem auch der Schiller natürlich,
+[3288.26s -> 3290.26s]  es wird sich dann zeigen,
+[3290.26s -> 3293.26s]  an jene Welt der rittlichen Pflichten denkt,
+[3293.26s -> 3306.26s]  als Botschaft nur verlebendigt in der Bühne wahr sei.
+[3306.26s -> 3310.26s]  Diese Auffassung und ihre Begründung
+[3310.26s -> 3316.26s]  ist ein Gramm von dergleichen.
+[3316.26s -> 3319.26s]  Ich will mich in den folgenden Zitaten
+[3319.26s -> 3321.26s]  auf das beschränken,
+[3321.26s -> 3327.26s]  was für den Fortgang hier wesentlich ist
+[3327.26s -> 3330.26s]  und nicht alles zur Sprache bringen, was drinsteckt,
+[3330.26s -> 3337.26s]  da gibt's viel zu tun.
+[3337.26s -> 3339.26s]  Die philosophische Begründung,
+[3339.26s -> 3342.26s]  der ist tätig,
+[3342.26s -> 3346.26s]  beginnt mit einem Fehler,
+[3346.26s -> 3348.26s]  übers Denken.
+[3348.26s -> 3350.26s]  Das heißt,
+[3350.26s -> 3352.26s]  aus einem Sklaven der Natur,
+[3352.26s -> 3354.26s]  solange er sie bloß empfindet,
+[3354.26s -> 3356.26s]  wird der Mensch der Gesetzgeber,
+[3356.26s -> 3358.26s]  sobald er sie denkt.
+[3358.26s -> 3361.26s]  Die, ihn vor dem nur als Macht beherrschte,
+[3361.26s -> 3364.26s]  steht jetzt als Objekt vor seinem richtenden Blicke.
+[3364.26s -> 3366.26s]  Was ihm Objekt ist,
+[3366.26s -> 3368.26s]  hat keine Gewalt über ihn,
+[3368.26s -> 3370.26s]  denn um Objekt zu sein,
+[3370.26s -> 3375.26s]  muss es die Seinige erfahren.
+[3375.26s -> 3377.26s]  Die Verabschiedung
+[3377.26s -> 3380.26s]  von der von Lessing noch so emphatisch verträgenen Welt,
+[3380.26s -> 3382.26s]  bornierten Welt der Empfindung,
+[3382.26s -> 3387.26s]  borniert ist hier die klassische Auffassung,
+[3387.26s -> 3389.26s]  wird mit einem Denkfehler
+[3389.26s -> 3395.26s]  übers Denken über die Natur des Denkens eingeleitet.
+[3395.26s -> 3397.26s]  Natürlich ist,
+[3397.26s -> 3399.26s]  wenn gedacht wird,
+[3399.26s -> 3402.26s]  das Subjekt nur ein Objekt,
+[3402.26s -> 3405.26s]  ein Gedanken sich macht,
+[3405.26s -> 3407.26s]  deswegen noch lange nicht
+[3407.26s -> 3412.26s]  das Subjekt praktischer Meister der Welt.
+[3412.26s -> 3414.26s]  Es ist selbst dann nicht der Fall,
+[3414.26s -> 3417.26s]  wenn der Gedanke richtig ist,
+[3417.26s -> 3421.26s]  wenn sich eine wissenschaftlich korrekte Auffassung
+[3421.26s -> 3424.26s]  von der Welt gemacht wird,
+[3424.26s -> 3426.26s]  ein Urteil, man hat,
+[3426.26s -> 3428.26s]  was trifft,
+[3428.26s -> 3431.26s]  da kommt es noch immer schwer darauf an,
+[3431.26s -> 3433.26s]  dieses Mittel, was man dann hat,
+[3433.26s -> 3437.26s]  in Wissen über die Welt praktisch zu benutzen,
+[3437.26s -> 3439.26s]  mit dem, was man dann erkannt hat,
+[3439.26s -> 3442.26s]  nach seinem Zweck zu verfahren.
+[3442.26s -> 3446.26s]  Schiller denkt hier nicht in die Wissenschaft,
+[3446.26s -> 3448.26s]  sondern leiert aus,
+[3448.26s -> 3450.26s]  mit diesem Fehler,
+[3450.26s -> 3454.26s]  aus der Natur des Denkens
+[3454.26s -> 3458.26s]  die Idee heraus,
+[3458.26s -> 3461.26s]  weil der Mensch denkt,
+[3461.26s -> 3466.26s]  ist er Instanz der Freiheit.
+[3466.26s -> 3471.26s]  Sein Geist ist gegen die Natur,
+[3471.26s -> 3476.26s]  weil Geist die gesetzgebende Instanz.
+[3476.26s -> 3482.26s]  Die verkehrte Auffassung wird im Fortgang
+[3482.26s -> 3489.26s]  ein wenig erkenntnistheoretisch überhöht und untermauert.
+[3489.26s -> 3491.26s]  Da heißt es,
+[3491.26s -> 3495.26s]  da alles wirkliche Dasein von der Natur
+[3495.26s -> 3497.26s]  als einer fremden Macht,
+[3497.26s -> 3501.26s]  aller Schein aber ursprünglich von dem Menschen
+[3501.26s -> 3504.26s]  als vorstellenden Subjekt, der sich herschreibt,
+[3504.26s -> 3508.26s]  so bedient er sich bloß seines absoluten Eigentums,
+[3508.26s -> 3509.26s]  Rechts,
+[3509.26s -> 3511.26s]  wenn er den Schein von dem Wesen zurückgibt,
+[3511.26s -> 3517.26s]  und mit demselben nach eigenen Gesetzen schaltet.
+[3517.26s -> 3519.26s]  Mit ungebundener Freiheit kann er,
+[3519.26s -> 3521.26s]  was die Natur trennt,
+[3521.26s -> 3523.26s]  zusammenfügen,
+[3523.26s -> 3527.26s]  sobald er es nur irgend zusammen denken kann,
+[3527.26s -> 3529.26s]  und trennen,
+[3529.26s -> 3531.26s]  was die Natur verknüpfte,
+[3531.26s -> 3536.26s]  sobald er es nur in seinem Verstande absondern kann.
+[3536.26s -> 3540.26s]  Es ist die programmatische Auffassung
+[3540.26s -> 3542.26s]  eines Undings,
+[3542.26s -> 3544.26s]  nämlich eines Wesens,
+[3544.26s -> 3549.26s]  getrennt von seinem Erscheinen.
+[3549.26s -> 3552.26s]  Während die richtige Fassung von Wesen und Erscheinung,
+[3552.26s -> 3557.26s]  die Schiller übrigens auch weiß, das kommt gleich,
+[3557.26s -> 3559.26s]  die Frage des Wissens ist,
+[3559.26s -> 3561.26s]  und die darin besteht,
+[3561.26s -> 3564.26s]  dass man wissen möchte,
+[3564.26s -> 3568.26s]  was denn an dem, was man so unmittelbar als Erscheinung vor sich hat,
+[3568.26s -> 3574.26s]  dessen notwendigen inneren Zusammenhang ausmacht.
+[3574.26s -> 3576.26s]  Was denn die Sachen sind,
+[3576.26s -> 3578.26s]  ihrer Wahl naturnah,
+[3578.26s -> 3581.26s]  entschließt sich der Schiller
+[3581.26s -> 3584.26s]  zu einer programmatischen Erklärung der Spinnerei.
+[3584.26s -> 3588.26s]  Die Welt des Scheinens
+[3588.26s -> 3592.26s]  möchte er frei von dem,
+[3592.26s -> 3595.26s]  was in ihr erscheint,
+[3595.26s -> 3597.26s]  handhaben,
+[3597.26s -> 3600.26s]  er möchte getrennt von dem,
+[3600.26s -> 3603.26s]  was da so zur Erscheinung kommt,
+[3603.26s -> 3607.26s]  ein Bild des Wesens,
+[3607.26s -> 3612.26s]  ein Bild vom Wesentlichen dahinter verfertigen.
+[3612.26s -> 3615.26s]  Dieses Wesen
+[3615.26s -> 3618.26s]  ist dann eben nicht
+[3618.26s -> 3621.26s]  die ermittelte Objektivität der Sache,
+[3621.26s -> 3625.26s]  sondern es ist ein ganz Abstraktes dahinter,
+[3625.26s -> 3630.26s]  es ist ein begriffslos gedachtes Dahinterstehen,
+[3630.26s -> 3633.26s]  was sich ihm genau deswegen,
+[3633.26s -> 3635.26s]  dem Verstand,
+[3635.26s -> 3637.26s]  nicht nur entzogen schon hat,
+[3637.26s -> 3642.26s]  sondern sich notwendig auch entziehen muss.
+[3642.26s -> 3644.26s]  Dieses menschliche Herrscherrecht
+[3644.26s -> 3647.26s]  übt er aus in der Kunst des Scheins,
+[3647.26s -> 3651.26s]  und je strenger er hier das Mein und Dein voneinander sondert,
+[3651.26s -> 3654.26s]  je sorgfältiger er die Gestalt von dem Wesen trennt,
+[3654.26s -> 3657.26s]  und je mehr Selbstständigkeit er derselben zu geben weiß,
+[3657.26s -> 3660.26s]  desto mehr wird er nicht bloß das Reich der Schönheit erweitern,
+[3660.26s -> 3663.26s]  sondern selbst die Grenzen der Wahrheit bewahren,
+[3663.26s -> 3666.26s]  denn er kann den Schein nicht von der Wirklichkeit reinigen,
+[3666.26s -> 3670.26s]  ohne zugleich die Wirklichkeit von dem Schein freizumachen.
+[3670.26s -> 3673.26s]  Das Letzte ist köstlich,
+[3673.26s -> 3676.26s]  die Wirklichkeit von ihrem Schein freimachen.
+[3676.26s -> 3680.26s]  Ja, das erinnert so ein wenig an Wahrheit,
+[3680.26s -> 3682.26s]  an die Idee von Wissen.
+[3682.26s -> 3686.26s]  Insofern man noch durch die Welt der bloßen Erscheinung
+[3686.26s -> 3689.26s]  vorstoßen möchte zu der Natur der Dinge,
+[3689.26s -> 3694.26s]  ich drück's mal so aus.
+[3694.26s -> 3699.26s]  Er schafft es mit dieser Erinnerung
+[3699.26s -> 3702.26s]  an das Wissenwollen,
+[3702.26s -> 3707.26s]  an das Ermittelnwollen von dem, was das Wesentliche von Sachen ist,
+[3707.26s -> 3710.26s]  ein Klarheitszeichen zu fabrizieren
+[3710.26s -> 3717.26s]  zwischen dem Wissen selbst und dem reinen Fantasieren.
+[3717.26s -> 3720.26s]  Aber er besitzt dieses souveräne Recht schlechter Dienst
+[3720.26s -> 3722.26s]  auch nur in der Welt des Scheins,
+[3722.26s -> 3725.26s]  in dem wesenlosen Reich der Einbildungskraft
+[3725.26s -> 3728.26s]  und nur solange er sich im Theoretischen gewissenhaft enthält,
+[3728.26s -> 3730.26s]  Existenz davon auszusagen
+[3730.26s -> 3732.26s]  und solange er im Praktischen darauf Verzicht tut,
+[3732.26s -> 3736.26s]  Existenz dadurch zu erteilen.
+[3736.26s -> 3739.26s]  Ja, ja, es ist ein eigener Wahnbereich,
+[3739.26s -> 3742.26s]  der hier aufgemacht wird,
+[3742.26s -> 3745.26s]  der allerdings gleichwohl noch sämtliche Erinnerungen
+[3745.26s -> 3748.26s]  an Verbindlichkeit mitschleift.
+[3748.26s -> 3751.26s]  Das Wahres, was er vorhin ausgedrückt hat,
+[3751.26s -> 3754.26s]  im Verknüpfen des freien Scheinens
+[3754.26s -> 3756.26s]  und der Welt der Fantasie
+[3756.26s -> 3758.26s]  wird das gewahrt,
+[3758.26s -> 3762.26s]  was an sich Wahrheit sei.
+[3762.26s -> 3764.26s]  Man darf bloß nicht behaupten,
+[3764.26s -> 3766.26s]  es wäre objektiv so.
+[3766.26s -> 3768.26s]  Man darf bloß nicht sagen,
+[3768.26s -> 3771.26s]  man hätte den Begriff der Sache gedacht.
+[3771.26s -> 3772.26s]  Man darf bloß nicht sagen,
+[3772.26s -> 3774.26s]  das Ideal, was ich mir jetzt gedacht habe,
+[3774.26s -> 3776.26s]  auch des käme es an.
+[3776.26s -> 3779.26s]  Nein, es ist ein vom Reich der Wirklichkeit,
+[3779.26s -> 3781.26s]  wie er es hier sagt,
+[3781.26s -> 3783.26s]  abgetrennter Bereich,
+[3783.26s -> 3785.26s]  der Dichter verstößt gegen seine Pflicht,
+[3785.26s -> 3790.26s]  wenn er seine Grenzen des Wahnsinns überschreitet.
+[3790.26s -> 3792.26s]  Diese Deduktion,
+[3792.26s -> 3796.26s]  dieses Herrscherrecht des Menschen durch Spinnen der Fantasie,
+[3796.26s -> 3797.26s]  ist,
+[3797.26s -> 3799.26s]  die ganze, hier bei Schiller,
+[3799.26s -> 3801.26s]  sehr präzise,
+[3801.26s -> 3803.26s]  theoretische Grundlegung der Kategorie
+[3803.26s -> 3805.26s]  poetischer Wahrheit,
+[3805.26s -> 3807.26s]  wie sie die Klassik erfunden hat.
+[3807.26s -> 3810.26s]  Zusammengefasst in Zitat Nummer 5.
+[3810.26s -> 3812.26s]  Die Natur,
+[3812.26s -> 3814.26s]  das ist hier wieder das Bild für das Wesen,
+[3814.26s -> 3816.26s]  selbst ist nur eine Idee des Geistes,
+[3816.26s -> 3818.26s]  die nie in die Sinne fällt.
+[3818.26s -> 3820.26s]  Unter der Decke der Erscheinungen liegt sie,
+[3820.26s -> 3823.26s]  aber sie selbst kommt niemals zur Erscheinung.
+[3823.26s -> 3826.26s]  Bloß der Kunst des Ideals ist es verliehen,
+[3826.26s -> 3827.26s]  oder vielmehr,
+[3827.26s -> 3829.26s]  es ist ihr aufgegeben,
+[3829.26s -> 3831.26s]  diesen Geist des Alls zu ergreifen
+[3831.26s -> 3834.26s]  und in einer körperlichen Form zu binden.
+[3834.26s -> 3837.26s]  Auch sie selbst kann ihn zwar nie vor die Sinne,
+[3837.26s -> 3839.26s]  aber doch durch ihre schaffende Gewalt
+[3839.26s -> 3841.26s]  vor die Einstellung Einbildungskraft bringen
+[3841.26s -> 3843.26s]  und dadurch wahrer sein als alle Wirklichkeit
+[3843.26s -> 3846.26s]  und realer als alle Erfahrungen.
+[3846.26s -> 3848.26s]  Es ergibt sich hier daraus von selbst,
+[3848.26s -> 3850.26s]  dass der Künstler kein einziges Element
+[3850.26s -> 3852.26s]  aus der Wirklichkeit brauchen kann,
+[3852.26s -> 3854.26s]  wie er es findet,
+[3854.26s -> 3856.26s]  weil der Werk in allen seinen Teilen
+[3856.26s -> 3857.26s]  ideell sein muss,
+[3857.26s -> 3859.26s]  wenn es als Ganzes Realität haben
+[3859.26s -> 3864.26s]  und mit der Natur übereinstimmen soll.
+[3864.26s -> 3868.26s]  Das fantasierte Reich oder das Reich der Fantasie
+[3868.26s -> 3873.26s]  ist quasi per se
+[3873.26s -> 3876.26s]  die absolute Wahrheit,
+[3876.26s -> 3879.26s]  die Lessings Problem war.
+[3879.26s -> 3881.26s]  Der Fortschritt gegenüber Lessing
+[3881.26s -> 3883.26s]  besteht augenscheinlich darin,
+[3883.26s -> 3886.26s]  dass der Schiller
+[3886.26s -> 3890.26s]  die haltlosen Übertreibungen von Lessing,
+[3890.26s -> 3893.26s]  die in dieser Kategorie stecken,
+[3893.26s -> 3897.26s]  einfach komplett macht und behauptet,
+[3897.26s -> 3901.26s]  Fantasie sei das Medium,
+[3901.26s -> 3905.26s]  in dem sich Natur bzw. Geist des Alls,
+[3905.26s -> 3908.26s]  so seine Formulierung,
+[3908.26s -> 3912.26s]  und worunter alle Objektive,
+[3912.26s -> 3915.26s]  objektiven Prinzipien von Welt zu fassen seien,
+[3915.26s -> 3920.26s]  sich abspiegeln würde.
+[3920.26s -> 3923.26s]  Und auch hinsichtlich des Inhalts
+[3923.26s -> 3925.26s]  dieser poetischen Wahrheit,
+[3925.26s -> 3928.26s]  bei Lessing waren es ja diese sittlichen Pflichten,
+[3928.26s -> 3932.26s]  die Sittenlehre,
+[3932.26s -> 3934.26s]  ist das schillerische Ideal
+[3934.26s -> 3939.26s]  auch bloß ein wenig die Übertreibung.
+[3939.26s -> 3941.26s]  Die Stütze für die Fortdauer der Gesellschaft,
+[3941.26s -> 3944.26s]  findet sich nicht in dem natürlichen Charakter des Menschen,
+[3944.26s -> 3946.26s]  der selbstsüchtig und gewalttätig
+[3946.26s -> 3948.26s]  viel mehr auf Zerstörung
+[3948.26s -> 3950.26s]  als auf Erhaltung der Gesellschaft zielt.
+[3950.26s -> 3953.26s]  Sie findet sich ebenso wenig in einem sittlichen Charakter,
+[3953.26s -> 3956.26s]  der nach der Voraussetzung erst gebildet werden soll,
+[3956.26s -> 3958.26s]  und auf den, weil er frei ist
+[3958.26s -> 3960.26s]  und weil er nie erscheint,
+[3960.26s -> 3962.26s]  von dem Gesetzgeber nie gewirkt
+[3962.26s -> 3965.26s]  und nie mit Sicherheit gerechnet werden könnte.
+[3965.26s -> 3968.26s]  Ist interessant,
+[3968.26s -> 3970.26s]  wie der Schiller hier
+[3970.26s -> 3975.26s]  über Moral redet.
+[3975.26s -> 3977.26s]  Die Welt der wirklichen Moral,
+[3977.26s -> 3978.26s]  auf die er einsteigt,
+[3978.26s -> 3980.26s]  wo er den Individuen
+[3980.26s -> 3983.26s]  Rachsüchtelei, Egoismus usw. vorwirft,
+[3983.26s -> 3985.26s]  das ist ihm sowieso,
+[3985.26s -> 3990.26s]  das gehört in die Abteilung der natürliche Charakter.
+[3990.26s -> 3994.26s]  Wie hat den Mangel offensichtlich,
+[3994.26s -> 3999.26s]  und es ist hier der einzige Mangel,
+[3999.26s -> 4002.26s]  dass in ihr die Pflichten im Moralischen
+[4002.26s -> 4005.26s]  nicht in Form der sittlichen Idee existieren,
+[4005.26s -> 4012.26s]  nicht als vom Individuum in aller Freiheit gewollte Pflichten.
+[4012.26s -> 4015.26s]  Also wirft er sich auf diese sittliche Idee,
+[4015.26s -> 4018.26s]  und was muss er feststellen?
+[4018.26s -> 4020.26s]  Das ist ja scheiße.
+[4020.26s -> 4022.26s]  Wenn man pflichtenfrei will,
+[4022.26s -> 4025.26s]  dann ist ja das bloß ein Ideal.
+[4025.26s -> 4027.26s]  Das gibt es doch genau in der Freiheit nicht,
+[4027.26s -> 4029.26s]  sondern eher,
+[4029.26s -> 4032.26s]  dass die wirkliche Pflicht tatsächlich gewollt wird.
+[4032.26s -> 4035.26s]  Also löst er das Problem
+[4035.26s -> 4038.26s]  und schnitzt sich eine Erfindung.
+[4038.26s -> 4040.26s]  Es käme also darauf an,
+[4040.26s -> 4043.26s]  von dem physischen Charakter die Willkür
+[4043.26s -> 4046.26s]  und von dem moralischen die Freiheit abzusondern,
+[4046.26s -> 4049.26s]  um einen dritten Charakter zu erzeugen,
+[4049.26s -> 4051.26s]  der mit ihnen beiden verwandt,
+[4051.26s -> 4053.26s]  von der Herrschaft bloßer Kräfte
+[4053.26s -> 4055.26s]  zu der Herrschaft der Gesetze einen Übergang bahnte,
+[4055.26s -> 4057.26s]  ohne den moralischen Charakter
+[4057.26s -> 4059.26s]  an seiner Entwicklung zu verhindern,
+[4059.26s -> 4061.26s]  vielmehr zu einem sinnlichen Pfand
+[4061.26s -> 4066.26s]  der unsichtbaren Sittlichkeit diente.
+[4066.26s -> 4070.26s]  Hierzu ist zweierlei noch ergänzend zu sagen,
+[4070.26s -> 4073.26s]  der Schiller hat programmatisch
+[4073.26s -> 4076.26s]  an diesem Wahn zu Ende gedacht
+[4076.26s -> 4079.26s]  und ist auf die Konstruktion des ästhetischen Staates verfallen.
+[4079.26s -> 4081.26s]  Was?
+[4081.26s -> 4084.26s]  Auf die Konstruktion des ästhetischen Staates verfallen.
+[4084.26s -> 4090.26s]  Das ist ein Gebilde,
+[4090.26s -> 4095.26s]  in dem freie Leute
+[4095.26s -> 4100.26s]  alle Pflichten erledigen und wollen, die es gibt.
+[4100.26s -> 4104.26s]  Und dieses Gebilde ist bevölkert von Schiller
+[4104.26s -> 4108.26s]  und noch zwei anderen.
+[4108.26s -> 4110.26s]  Er sagt allen Ernstes,
+[4110.26s -> 4112.26s]  die Urform des ästhetischen Staates,
+[4112.26s -> 4113.26s]  die finden wir dort,
+[4113.26s -> 4116.26s]  wo ich mit meinen Steigen zusammen bin.
+[4116.26s -> 4120.26s]  Zweitens, wir sind ja in der Kunst.
+[4120.26s -> 4124.26s]  Es geht wieder zurück in die Welt der Poesie.
+[4124.26s -> 4127.26s]  Es will natürlich auch wieder
+[4127.26s -> 4132.26s]  diese Auffassung vom Kunstprogramm,
+[4132.26s -> 4134.26s]  diese Anschauung von dem,
+[4134.26s -> 4138.26s]  was so diese Zwischenwelt der anschaulichen Wahrheit sein soll,
+[4138.26s -> 4142.26s]  es will auch die wieder glaubhaft gemacht sein.
+[4143.26s -> 4147.26s]  Ein Charakter dieser Sorte will wieder erfunden werden.
+[4147.26s -> 4149.26s]  Ein überzeugender Fall,
+[4149.26s -> 4154.26s]  ein Bild dieses Menschenbildes.
+[4154.26s -> 4163.26s]  Hierfür ist mir der Weinstein,
+[4163.26s -> 4170.26s]  also bloß einen kurzen Ausflug auf ihn wert,
+[4170.26s -> 4172.26s]  der, falls es vor der Aufgabe steht,
+[4172.26s -> 4177.26s]  ein sinnlicher Pfand der unsichtbaren Sinnlichkeit zu sein,
+[4177.26s -> 4180.26s]  in seinen Zwecksetzungen
+[4180.26s -> 4183.26s]  so quasi den Übergang zu machen
+[4183.26s -> 4187.26s]  zur Herrschaft höherer Gesetze.
+[4187.26s -> 4190.26s]  Ich will es knapp halten
+[4190.26s -> 4195.26s]  und erstmal eine Prologpassage von dem Stück zitieren,
+[4195.26s -> 4197.26s]  die ist nicht abgedruckt,
+[4197.26s -> 4201.26s]  in der erstmal berichtet wird,
+[4202.26s -> 4205.26s]  von der politischen Idee,
+[4205.26s -> 4206.26s]  um die es gehen soll,
+[4206.26s -> 4207.26s]  die ist hoch,
+[4207.26s -> 4208.26s]  die heißt Frieden für Deutschland,
+[4208.26s -> 4212.26s]  für das allgemeine Deutschland.
+[4212.26s -> 4218.26s]  Und in der Prologstelle
+[4218.26s -> 4220.26s]  wird neben diesem ideellen Zweck
+[4220.26s -> 4223.26s]  auch die subjektive Seite eingeführt,
+[4223.26s -> 4225.26s]  in die subjektive Seite eingeführt,
+[4225.26s -> 4230.26s]  in die Vorhaben diesen Zweck wahr werden zu lassen.
+[4230.26s -> 4231.26s]  Plus ein Versprechen,
+[4231.26s -> 4234.26s]  den dafür fälligen Charakter noch zu zeigen.
+[4234.26s -> 4235.26s]  Es heißt,
+[4235.26s -> 4239.26s]  auf diesem finsteren Zeitgrund
+[4239.26s -> 4241.26s]  malet sich ein Unternehmen kühlen Übermuts
+[4241.26s -> 4243.26s]  und ein verwegener Charakter ab.
+[4243.26s -> 4246.26s]  Ihr kennet ihn,
+[4246.26s -> 4248.26s]  den Schöpfer kühner Heere,
+[4248.26s -> 4251.26s]  des Lagers Abgott und der Ländergeisel,
+[4251.26s -> 4254.26s]  die Stütze und den Schrecken seines Kaisers,
+[4254.26s -> 4256.26s]  des Glückes abenteuerlicher Sohn,
+[4256.26s -> 4259.26s]  der von der Zeiten Gunst emporgetragen,
+[4259.26s -> 4265.26s]  der Ehre höchste Staffeln rasch erstieg
+[4265.26s -> 4268.26s]  und ungesättigt immer weiter strebend
+[4268.26s -> 4271.26s]  der unbezähmten Ehrsucht Opfer fiel.
+[4271.26s -> 4274.26s]  Von der Partei in Gunst und Hass verwirrt
+[4274.26s -> 4277.26s]  schwankt sein Charakterbild in der Geschichte.
+[4277.26s -> 4280.26s]  Doch euren Augen soll ihn jetzt die Kunst
+[4280.26s -> 4283.26s]  auch eurem Herzen menschlich näher bringen.
+[4283.26s -> 4285.26s]  Denn jedes Äußerste führt sie,
+[4285.26s -> 4287.26s]  die alles begrenzt und bindet,
+[4287.26s -> 4288.26s]  zur Natur zurück,
+[4288.26s -> 4291.26s]  sie sieht den Menschen in des Lebens Drang
+[4291.26s -> 4294.26s]  und wälzt die größere Hälfte seiner Schuld
+[4294.26s -> 4297.26s]  den unglückseligen Gestirnen zu.
+[4297.26s -> 4301.26s]  Das Problem ist klar,
+[4301.26s -> 4305.26s]  man soll die Vorhaben und Zwecke eines Feldherrn
+[4305.26s -> 4309.26s]  im Dreißigjährigen Krieg zur Kenntnis nehmen
+[4309.26s -> 4312.26s]  als höhere Verstrickung
+[4312.26s -> 4316.26s]  und deren Scheitern deuten,
+[4316.26s -> 4323.26s]  als Schicksal ebenfalls höhere Herkunft.
+[4323.26s -> 4326.26s]  Wie beweist das ein Charakter,
+[4326.26s -> 4331.26s]  von dem einerseits berichtet wird,
+[4331.26s -> 4336.26s]  dass er unglaublich kühn ist und verwegen,
+[4336.26s -> 4339.26s]  von dem ihr auch bekannt ist,
+[4339.26s -> 4341.26s]  dass er eigene Pläne schmiedet,
+[4341.26s -> 4344.26s]  sich ein Stück Böhme unter den Nagel reißen will und so weiter.
+[4346.26s -> 4349.26s]  Zur Erinnerung an Sarah Samson,
+[4349.26s -> 4352.26s]  da sollte der Charakter zeigen,
+[4352.26s -> 4354.26s]  dass die höhere Idealität des Menschen,
+[4354.26s -> 4356.26s]  die Tugend und so weiter,
+[4356.26s -> 4359.26s]  als diese höhere Bestimmung an sich bemerkt wird
+[4359.26s -> 4362.26s]  und es ist dort gezeigt worden,
+[4362.26s -> 4367.26s]  in dem Sarah Samson eben genau das gesagt hat.
+[4367.26s -> 4371.26s]  Tja und der Wallenstein nun,
+[4371.26s -> 4374.26s]  der löst das Problem so,
+[4374.26s -> 4377.26s]  als überzeugende Charakterfigur,
+[4377.26s -> 4379.26s]  dass er einfach,
+[4379.26s -> 4381.26s]  wiederum der alte Trick,
+[4381.26s -> 4384.26s]  vor sich hin monologisiert,
+[4384.26s -> 4386.26s]  dass er genau der Charakter ist,
+[4386.26s -> 4389.26s]  den er vorstellig machen soll.
+[4389.26s -> 4392.26s]  Wallenstein mit sich selbst redend,
+[4392.26s -> 4395.26s]  wäre es möglich,
+[4395.26s -> 4397.26s]  könnte ich nicht mehr wie ich wollte,
+[4397.26s -> 4399.26s]  nicht mehr zurück wie mir es begibt,
+[4399.26s -> 4401.26s]  ich müsste die Tat vollbringen,
+[4401.26s -> 4402.26s]  weil ich sie gedacht,
+[4402.26s -> 4404.26s]  nicht die Versuchung von mir wies,
+[4404.26s -> 4406.26s]  das Herz genährt mit diesem Traum,
+[4406.26s -> 4408.26s]  auf ungewisse Erfüllung hin,
+[4408.26s -> 4409.26s]  die Mittel mir gespart,
+[4409.26s -> 4412.26s]  die Wege bloß mir offen hab gehalten,
+[4412.26s -> 4415.26s]  beim großen Gott des Himmels.
+[4415.26s -> 4417.26s]  Und jetzt kommt noch eine Passage,
+[4417.26s -> 4418.26s]  wo er halt sagt,
+[4418.26s -> 4420.26s]  er hat ja gar nichts vorgehabt
+[4420.26s -> 4422.26s]  und sich weiterhin diskutiert,
+[4422.26s -> 4425.26s]  jetzt als Opfer einer um ihn herumgesprungenen Verstrickung,
+[4425.26s -> 4427.26s]  die ihn dazu zwingt,
+[4427.26s -> 4429.26s]  das zu tun, auszuführen,
+[4429.26s -> 4433.26s]  was er doch gar nicht so ausführen wollte.
+[4433.26s -> 4436.26s]  Wohin denn sehe ich plötzlich mich geführt?
+[4436.26s -> 4437.26s]  Bahnlos liegt's hinter mir
+[4437.26s -> 4440.26s]  und eine Mauer aus meinen eigenen Werken baut sich auf,
+[4440.26s -> 4443.26s]  die mir die Umkehr türmend hängt.
+[4443.26s -> 4446.26s]  Er bleibt tiefsinnig stehen.
+[4446.26s -> 4448.26s]  Strafbar erschein ich
+[4448.26s -> 4449.26s]  und ich kann die Schuld,
+[4449.26s -> 4450.26s]  wie ich's versuchen mag,
+[4450.26s -> 4452.26s]  nicht vor mir wälzen,
+[4452.26s -> 4454.26s]  denn mich verklagt der Doppelsinn des Lebens
+[4454.26s -> 4457.26s]  und selbst der frommen Quelle reine Tat
+[4457.26s -> 4460.26s]  wird der Verdacht schlimmdeutend mir vergiften.
+[4460.26s -> 4462.26s]  Eine einzige Allegur,
+[4462.26s -> 4465.26s]  wiederum der kunstprogrammatischen Lehre,
+[4465.26s -> 4470.26s]  die Auffassung von einer höheren Bestimmtheit
+[4470.26s -> 4472.26s]  des menschlichen Treibens
+[4472.26s -> 4475.26s]  dadurch anschaulich zu machen,
+[4475.26s -> 4477.26s]  dass einer auf der Bühne steht
+[4477.26s -> 4479.26s]  und sie vertritt.
+[4479.26s -> 4481.26s]  Er vertritt sie,
+[4481.26s -> 4484.26s]  indem er sich genau als diese Figur bespricht.
+[4484.26s -> 4487.26s]  Es gibt einen,
+[4487.26s -> 4490.26s]  auch außerhalb der Welt der Klassik,
+[4490.26s -> 4494.26s]  einen populären Gebrauch
+[4494.26s -> 4497.26s]  von dieser Auffassung
+[4497.26s -> 4503.26s]  bestehende Astrologie,
+[4503.26s -> 4508.26s]  die ein recht dämlicher Einfall insofern ist,
+[4508.26s -> 4511.26s]  als sie die Auffassung
+[4511.26s -> 4513.26s]  von der höheren Schicksalsbestimmtheit
+[4513.26s -> 4516.26s]  des eigenen Tun und Lassens
+[4516.26s -> 4518.26s]  ausgerechnet noch
+[4518.26s -> 4520.26s]  mit dem Interesse verknüpft,
+[4520.26s -> 4523.26s]  das für die Zwecke,
+[4523.26s -> 4525.26s]  die man sonst verfolgt,
+[4525.26s -> 4527.26s]  ausnutzen zu wollen.
+[4527.26s -> 4530.26s]  Es ist die saublöde Frage,
+[4530.26s -> 4532.26s]  ob das eigene Schicksal
+[4532.26s -> 4535.26s]  dem günstig steht.
+[4535.26s -> 4538.26s]  Es ist klar,
+[4538.26s -> 4544.26s]  diese Idee ist ja heute auch sehr populär,
+[4544.26s -> 4547.26s]  dass sie für dieses Vorhaben,
+[4547.26s -> 4549.26s]  um das es dem Schiller ja gegangen ist,
+[4549.26s -> 4553.26s]  ungemein brauchbar ist.
+[4553.26s -> 4555.26s]  Er hat also auch den Wallenstein
+[4555.26s -> 4558.26s]  in die Sterne gucken lassen
+[4558.26s -> 4560.26s]  und darauf spechten lassen,
+[4560.26s -> 4567.26s]  ob denn das Schicksal angewogen ist.
+[4567.26s -> 4569.26s]  Jetzt war der Schiller
+[4569.26s -> 4573.26s]  ein Kunstmann sondergleichen.
+[4573.26s -> 4576.26s]  Er hat sich bei der Dummheit,
+[4576.26s -> 4578.26s]  die ihm hier nicht aufgefallen ist,
+[4578.26s -> 4580.26s]  eigentlich bloß gefragt.
+[4580.26s -> 4583.26s]  Und so sind Künstler.
+[4583.26s -> 4586.26s]  Ist denn der dramatische Effekt,
+[4586.26s -> 4588.26s]  auf den ich hier abziehe,
+[4588.26s -> 4590.26s]  eigentlich dramatisch genug?
+[4590.26s -> 4592.26s]  Tut denn das,
+[4592.26s -> 4593.26s]  wenn ich den Wallenstein
+[4593.26s -> 4595.26s]  jetzt in die Sterne blicken lasse,
+[4595.26s -> 4601.26s]  eigentlich für sich zeigen,
+[4601.26s -> 4603.26s]  dass das, wovon das jetzt zeugen soll,
+[4603.26s -> 4605.26s]  etwas ganz ungemein Ideelles,
+[4605.26s -> 4607.26s]  etwas ganz ungemein Hohes ist?
+[4608.26s -> 4611.26s]  Da war der Schiller sich unsicher
+[4611.26s -> 4614.26s]  und hat sich schriftlich an seinen Freund Goethe gewandt
+[4614.26s -> 4617.26s]  und um Auskunft gebeten.
+[4617.26s -> 4619.26s]  Sie haben ja rege Briefe geschrieben,
+[4619.26s -> 4621.26s]  wo sie sich immer wechselseitig so
+[4621.26s -> 4623.26s]  tat-ehrlich überzeugt versicherten,
+[4623.26s -> 4625.26s]  dass sie es ganz richtig gemacht hätten.
+[4625.26s -> 4628.26s]  Und haben sich eben auch über solche Probleme
+[4628.26s -> 4630.26s]  und wen sie sonst noch getroffen hätten
+[4630.26s -> 4632.26s]  und so weiter verständigt.
+[4632.26s -> 4638.26s]  Das ist sorglich aufgeschrieben,
+[4638.26s -> 4641.26s]  da gibt es Kommentare zu diesem Briefwechsel
+[4641.26s -> 4643.26s]  und eine ganze Wissenschaft
+[4643.26s -> 4645.26s]  findet das höchst interessant.
+[4645.26s -> 4649.26s]  Nun gut, also der Goethe sagt zuerst,
+[4649.26s -> 4650.26s]  lieber Schiller, das mache ich gerne,
+[4650.26s -> 4651.26s]  zur Zeit habe ich keine Zeit,
+[4651.26s -> 4653.26s]  ich bin gerade mit etwas anderem befasst,
+[4653.26s -> 4655.26s]  irgendeinem Listichen oder sonst was.
+[4655.26s -> 4659.26s]  Und dann kommt die Antwort.
+[4659.26s -> 4661.26s]  Ich halte nach vielfältiger Überlegung,
+[4661.26s -> 4663.26s]  mal muss ich überlegen,
+[4663.26s -> 4666.26s]  das astrologische Motiv für besser als das neue.
+[4666.26s -> 4668.26s]  Goethe an Schiller.
+[4668.26s -> 4671.26s]  Jetzt begründet er seine Auffassung.
+[4671.26s -> 4673.26s]  Der astrologische Aberglaube
+[4673.26s -> 4675.26s]  ruht auf dem dunklen Gefühl
+[4675.26s -> 4678.26s]  eines ungeheuren Weltganzen.
+[4678.26s -> 4683.26s]  Das ist ganz korrekt.
+[4683.26s -> 4685.26s]  Goethe fährt fort.
+[4685.26s -> 4688.26s]  Die Erfahrung spricht,
+[4688.26s -> 4690.26s]  dass die mächtigen Stirne
+[4690.26s -> 4692.26s]  einen entschiedenen Einfluss
+[4692.26s -> 4697.26s]  auf Witterung, Vegetation usw. haben.
+[4697.26s -> 4700.26s]  Er spricht natürlich nicht die Erfahrung,
+[4700.26s -> 4702.26s]  denn wenn er an so etwas denkt,
+[4702.26s -> 4704.26s]  wie Gravitationsgesetze oder sonst was,
+[4704.26s -> 4708.26s]  dann wäre es das Wissen.
+[4708.26s -> 4710.26s]  Aber er sagt, die Erfahrung spricht dafür,
+[4710.26s -> 4712.26s]  hält also diese philosophische Anschauung
+[4712.26s -> 4714.26s]  von ungeheuren dunklen Weltganzen
+[4714.26s -> 4717.26s]  für einigermaßen veritabel sanktioniert.
+[4717.26s -> 4718.26s]  Und fährt fort.
+[4718.26s -> 4720.26s]  Er darf nur stufenweise immer aufwärts steigen
+[4720.26s -> 4722.26s]  und es lässt sich nicht sagen,
+[4722.26s -> 4724.26s]  wo diese Wirkung aufhört.
+[4724.26s -> 4727.26s]  Findet doch der Astronom überall Störungen
+[4727.26s -> 4729.26s]  eines Gestirns durchs andere.
+[4729.26s -> 4731.26s]  Ist doch der Philosoph geneigt,
+[4731.26s -> 4732.26s]  ja genötigt,
+[4732.26s -> 4735.26s]  eine Wirkung auf das Entfernteste anzunehmen.
+[4735.26s -> 4738.26s]  Eine Wirkung auf das Entfernteste anzunehmen.
+[4738.26s -> 4741.26s]  So darf der Mensch im Vorgefühl seiner selbst
+[4741.26s -> 4743.26s]  nur immer etwas weiter streiten
+[4743.26s -> 4745.26s]  und diese Einrichtung auf sichtliche,
+[4745.26s -> 4747.26s]  auf Glück und Unglück ausdehnen.
+[4748.26s -> 4750.26s]  Diesen unähnlichen Wahn
+[4750.26s -> 4753.26s]  möchte ich nicht einmal Aberglauben nennen.
+[4753.26s -> 4756.26s]  Er liegt unserer Natur so nahe,
+[4756.26s -> 4758.26s]  ist so leidlich und lässig
+[4758.26s -> 4762.26s]  als irgendein Glaube.
+[4762.26s -> 4765.26s]  Man sollte sich dies nur
+[4765.26s -> 4768.26s]  als Adresse an die Kunstliebhaber
+[4768.26s -> 4770.26s]  einfach mal bloß seine Meinung
+[4770.26s -> 4772.26s]  über solche Sprüche
+[4772.26s -> 4776.26s]  der geschätzten Klassiker bilden.
+[4776.26s -> 4777.26s]  Man muss ja,
+[4777.26s -> 4779.26s]  man soll sich einfach bloß mal ernst nehmen,
+[4779.26s -> 4782.26s]  was da gesagt wird.
+[4782.26s -> 4783.26s]  Und wenn man schon
+[4783.26s -> 4785.26s]  sonst in Goethe alles glaubt,
+[4785.26s -> 4790.26s]  kann man ihm das ja auch mal glauben.
+[4790.26s -> 4791.26s]  Zusammenfassend
+[4791.26s -> 4794.26s]  zwischen Kunstideal.
+[4794.26s -> 4797.26s]  Erste Behauptung ist,
+[4797.26s -> 4800.26s]  die dichterische Fantasie ist per se
+[4800.26s -> 4803.26s]  Quelle einer Idealität,
+[4803.26s -> 4805.26s]  in der die Humanität, die Welt
+[4805.26s -> 4808.26s]  und überhaupt alle Prinzipien
+[4808.26s -> 4812.26s]  als geistige zur Anschauung gebracht werden sollen.
+[4812.26s -> 4814.26s]  Das bewahrheitet sich wiederum
+[4814.26s -> 4817.26s]  an der Anschaulichkeit der Kunstprodukte,
+[4817.26s -> 4819.26s]  an der überzeugenden Gestaltung,
+[4819.26s -> 4823.26s]  dem perfekt stilisierten Faktor,
+[4823.26s -> 4830.26s]  den man dann diese Weltphilosophie abnehmen soll.
+[4830.26s -> 4833.26s]  Und wiederum entsteht aus dem Standpunkt
+[4833.26s -> 4838.26s]  dieses Kunstideals heraus
+[4838.26s -> 4842.26s]  und um der Perfektionierung dieses Standpunkts willen
+[4842.26s -> 4845.26s]  ein neues Kunstprogramm.
+[4845.26s -> 4848.26s]  Wenn schon philosophische Wahrheit,
+[4848.26s -> 4853.26s]  Quatsch, poetische Wahrheit,
+[4853.26s -> 4858.26s]  die Quelle von Wahrheit überhaupt ist,
+[4858.26s -> 4860.26s]  wenn man schon,
+[4860.26s -> 4862.26s]  so eher der Schiller,
+[4862.26s -> 4866.26s]  auch der Fantasie auf den Weltensinn stößt,
+[4866.26s -> 4870.26s]  das Fantasieren der Weg zum Sinn ist,
+[4870.26s -> 4877.26s]  dann darf doch dies nicht sich daran messen lassen,
+[4877.26s -> 4880.26s]  was denn die dichterische Schaffenskraft
+[4880.26s -> 4883.26s]  überhaupt an Fantasien, an Verbindlichungen
+[4883.26s -> 4888.26s]  dieses Prinzips zuwege bringt.
+[4888.26s -> 4891.26s]  Der romantische Standpunkt
+[4891.26s -> 4894.26s]  radikalisiert das schillerische Menschenrecht,
+[4894.26s -> 4899.26s]  vorhin erläutert an dieser Kunst des Scheins,
+[4899.26s -> 4905.26s]  verabsolutiert das höhere Geltungsrecht der Fantasie
+[4905.26s -> 4908.26s]  durch die programmatische Erklärung,
+[4908.26s -> 4912.26s]  aller Sinn würde sich im Fantasieren,
+[4912.26s -> 4917.26s]  im stattfinden von Kunst schlechthin bewahrheiten.
+[4917.26s -> 4919.26s]  Es kommt zur Erfindung der Fantasie,
+[4919.26s -> 4924.26s]  als Prinzip vom Sinn.
+[4924.26s -> 4927.26s]  Das oberste Prinzip
+[4927.26s -> 4930.26s]  muss schlechterdings nichts gegebenes,
+[4930.26s -> 4932.26s]  sondern ein freigemachtes,
+[4932.26s -> 4935.26s]  ein erdichtetes, erdachtes Sein,
+[4935.26s -> 4939.26s]  um ein allgemeines metaphysisches System zu begründen,
+[4939.26s -> 4943.26s]  das von Freiheit anfängt und zu Freiheit geht.
+[4943.26s -> 4947.26s]  Das ist gedanklich zunächst dasselbe Unsinnzeug,
+[4947.26s -> 4950.26s]  wie schon bei Schiller,
+[4950.26s -> 4954.26s]  die Rede des Geistes, vom Geist in seiner Freiheit,
+[4954.26s -> 4959.26s]  wo ja auch das Losmachen von jeder Objektivität,
+[4959.26s -> 4962.26s]  das sich Einhausen in der Welt des Scheines,
+[4962.26s -> 4964.26s]  das höchste Allgemeinheit,
+[4964.26s -> 4966.26s]  die höchsten ideellen Notwendigkeiten
+[4966.26s -> 4968.26s]  zuwege gebracht hat.
+[4968.26s -> 4971.26s]  Aber hier von diesem Romantiker
+[4971.26s -> 4974.26s]  ist als Prinzip gedacht,
+[4974.26s -> 4976.26s]  der Sinn eingeführt,
+[4976.26s -> 4979.26s]  als eine einzige Methode,
+[4979.26s -> 4982.26s]  in sich zu denken.
+[4982.26s -> 4985.26s]  Via Fantasie.
+[4985.26s -> 4988.26s]  Die Welt muss romantisiert werden.
+[4988.26s -> 4991.26s]  So findet man den ursprünglichen Sinn wieder.
+[4991.26s -> 4993.26s]  Romantisieren ist nichts,
+[4993.26s -> 4996.26s]  als eine qualitative Potenzierung.
+[4996.26s -> 5002.26s]  Diese Operation ist noch ganz unbekannt.
+[5002.26s -> 5004.26s]  Zunächst mal eine Richtigstellung,
+[5004.26s -> 5005.26s]  die ist überhaupt nicht unbekannt,
+[5005.26s -> 5010.26s]  die folgende Operation, die dann kommt.
+[5010.26s -> 5012.26s]  Indem ich dem Gemeinen einen hohen Sinn,
+[5012.26s -> 5014.26s]  dem Gewöhnlichen ein geheimnisvolles Ansehen,
+[5014.26s -> 5016.26s]  dem Bekannten die Würde des Unbekannten,
+[5016.26s -> 5019.26s]  dem Endlichen einen unendlichen Schein gebe,
+[5019.26s -> 5022.26s]  so romantisieren ich es.
+[5022.26s -> 5024.26s]  Ich habe auch wieder eine Stelle gefunden,
+[5024.26s -> 5027.26s]  wo der Schiller an Goethe schreibt,
+[5027.26s -> 5030.26s]  ist der Inhalt sehr poetisch bedeutend,
+[5030.26s -> 5032.26s]  so kann eine magere Darstellung
+[5032.26s -> 5034.26s]  und eine bis zum Gemeinen gehende Einfalt des Ausdrucks,
+[5034.26s -> 5036.26s]  ihm recht wohl anstehen.
+[5036.26s -> 5037.26s]  Da im Gegenteil,
+[5037.26s -> 5039.26s]  ein unpoetischer, gemeiner Inhalt,
+[5039.26s -> 5041.26s]  wie in einem Größe ein ganzes Wort nötig wird,
+[5041.26s -> 5043.26s]  durch den belegten und reichen Ausdruck
+[5043.26s -> 5045.26s]  poetische Digität erhält.
+[5045.26s -> 5048.26s]  Zunächst mal, dieses Geschwätz ist nicht neu.
+[5048.26s -> 5053.26s]  Zweitens aber, wovon ist die Rede?
+[5053.26s -> 5055.26s]  Zunächst mal schon,
+[5055.26s -> 5060.26s]  die Welt muss romantisiert werden,
+[5060.26s -> 5063.26s]  ist von einem gedanklichen Prozess die Rede,
+[5063.26s -> 5067.26s]  in der sich ja noch Subjekt und Objekt gegenüberstehen.
+[5067.26s -> 5073.26s]  Romantisieren, so wie es hier bestimmt ist,
+[5073.26s -> 5075.26s]  Beginn des Zitats,
+[5075.26s -> 5079.26s]  allerdings ist eine gedankliche Bewegung,
+[5079.26s -> 5083.26s]  die darauf zielt,
+[5083.26s -> 5089.26s]  jede Differenz zwischen Subjekt und Objekt
+[5089.26s -> 5091.26s]  ideell zum Verschwinden zu bringen.
+[5091.26s -> 5092.26s]  Wie?
+[5093.26s -> 5094.26s]  Auf sowas zielt,
+[5094.26s -> 5098.26s]  wie eine letzttämliche Identität beider.
+[5098.26s -> 5102.26s]  Die Formulierung heißt ursprünglicher Sinn.
+[5102.26s -> 5105.26s]  Romantisieren ist also ein Denken,
+[5105.26s -> 5108.26s]  das sich beständig darin kritisiert,
+[5108.26s -> 5111.26s]  überhaupt noch von einer Differenz
+[5111.26s -> 5116.26s]  zwischen Subjekt und Objekt zu wissen.
+[5116.26s -> 5118.26s]  Dabei,
+[5118.26s -> 5122.26s]  dies ist die zweite Bedeutung von ursprünglich,
+[5122.26s -> 5124.26s]  dabei soll dieses Telos des Denkens
+[5124.26s -> 5127.26s]  gar nicht im Denken selbst existieren,
+[5127.26s -> 5130.26s]  das soll gar nicht stattfinden in ihm,
+[5130.26s -> 5134.26s]  es soll gar nicht seine ideelle Leistung sein,
+[5134.26s -> 5137.26s]  sondern die Idee ist,
+[5137.26s -> 5142.26s]  dass das Denken hierbei einer ihm selbst vorausgesetzten,
+[5142.26s -> 5147.26s]  einer außer ihm liegenden Gegebenheit entspricht.
+[5147.26s -> 5150.26s]  Es ist die Vorstellung,
+[5150.26s -> 5154.26s]  es hätte diesen irgendwann mal schon wohl dagewesenen,
+[5154.26s -> 5159.26s]  eben ursprünglichen Sinn anzufallen.
+[5159.26s -> 5162.26s]  Andersrum gesagt,
+[5162.26s -> 5170.26s]  es ist die sehr widersprüchliche Prätention
+[5170.26s -> 5176.26s]  eines Ursprungssinns, eines letzten Sinns,
+[5176.26s -> 5179.26s]  als das, worauf das Denken hinaus soll,
+[5180.26s -> 5184.26s]  was es also schon vor und außer ihm gibt,
+[5184.26s -> 5191.26s]  obwohl dieser Sinn doch bloß durchs Denken zu haben ist.
+[5191.26s -> 5196.26s]  Also ist es das Postulat eines Sinnideals,
+[5196.26s -> 5199.26s]  eines ideellen Weltzusammenhangs,
+[5199.26s -> 5204.26s]  unabhängig davon, in welchen sinnhaften Gedanken
+[5204.26s -> 5208.26s]  er überhaupt begraben läge.
+[5210.26s -> 5221.26s]  Umgekehrt ist die Operation für das höhere Unbekannte,
+[5221.26s -> 5223.26s]  Mystische und Endliche.
+[5223.26s -> 5227.26s]  Dies wird durch die Verknüpfung logarithmisiert,
+[5227.26s -> 5229.26s]  es bekommt einen geläufigen Ausdruck,
+[5229.26s -> 5231.26s]  romantische Philosophie, lingua romana,
+[5231.26s -> 5234.26s]  Wechselerhöhung und Erniedrigung.
+[5234.26s -> 5239.26s]  Dieses Romantisieren,
+[5239.26s -> 5245.26s]  das im Gemeinen einen hohen Sinn
+[5245.26s -> 5249.26s]  und im Hohen einen gemeinen Sinn zu sprengen,
+[5249.26s -> 5253.26s]  dieses Sinnideal ist ein Gegenprogramm,
+[5253.26s -> 5260.26s]  ein erklärtes Gegenprogramm gegen jedes Urteil,
+[5260.26s -> 5265.26s]  das an irgendetwas, an irgendetwas, was es ist,
+[5265.26s -> 5268.26s]  einen Unterschied festhalten will,
+[5268.26s -> 5271.26s]  das überhaupt etwas bestimmen will,
+[5271.26s -> 5275.26s]  das überhaupt noch etwas denken will,
+[5275.26s -> 5279.26s]  das die Sachen so denken will, wie sie sind.
+[5279.26s -> 5286.26s]  Es wird angeteilt, das ist das Sinnideal,
+[5286.26s -> 5293.26s]  eine Identität in einer reinen Bestimmungslosigkeit,
+[5293.26s -> 5296.26s]  das Denken eines universellen Prinzips,
+[5296.26s -> 5302.26s]  das für alles gilt, genau dadurch, dass es für nichts gilt.
+[5302.26s -> 5307.26s]  Und das darüber dem Individuum, das danach lächelt,
+[5307.26s -> 5311.26s]  eine Totalweltanschauung vermittelt,
+[5311.26s -> 5314.26s]  in der sich selbst, das Subjekt,
+[5314.26s -> 5320.26s]  sich in eine Harmonie mit dem Weltganzen hinein imaginiert.
+[5320.26s -> 5323.26s]  Man kann so ein Ideal des Denkens
+[5323.26s -> 5325.26s]  verkehrt leben, widersprüchlich,
+[5325.26s -> 5330.26s]  aufbauend, man kann es denken,
+[5330.26s -> 5333.26s]  das geht eben so.
+[5333.26s -> 5336.26s]  Einen Gedanken allerdings,
+[5336.26s -> 5339.26s]  der dieses Ideal erfüllt,
+[5339.26s -> 5344.26s]  den kann man sich nicht mal vorstellen.
+[5344.26s -> 5346.26s]  Entsprechend sind Romantiker,
+[5346.26s -> 5351.26s]  die dies als Programmatik ihrer Dichtkunst vertreten,
+[5351.26s -> 5353.26s]  mit ihrem Ideal schon selig
+[5353.26s -> 5356.26s]  und versichern tausendlos und methodisch,
+[5356.26s -> 5360.26s]  dass alles ihr dichterisches Trachten
+[5360.26s -> 5364.26s]  dem Erzielen dieses Hintersinns verpflichtet ist.
+[5364.26s -> 5368.26s]  Und eben darin besteht,
+[5368.26s -> 5371.26s]  die Welt bzw. was sie von ihr halten,
+[5371.26s -> 5375.26s]  beständig in den Weite auf das Geheimnis zu tauchen
+[5375.26s -> 5381.26s]  und umgekehrt aus jedem Ding
+[5381.26s -> 5383.26s]  das Geheimnis zu erblicken.
+[5383.26s -> 5385.26s]  Das Verräten, das Banalen
+[5385.26s -> 5388.26s]  bzw. das Wurzelziehen aus dem Geheimnis fallen,
+[5388.26s -> 5392.26s]  kurz, in beiden Welten ist es das Streben
+[5392.26s -> 5397.26s]  nach einer Verbildlichung des eigenen Sinnwahns,
+[5397.26s -> 5403.26s]  den sie pflegen.
+[5403.26s -> 5408.26s]  Der ganze Unfug dieser Position löst sich darin auf,
+[5408.26s -> 5411.26s]  Bilder denken zu wollen,
+[5411.26s -> 5414.26s]  von denen einerseits behauptet wird,
+[5414.26s -> 5420.26s]  in ihnen würde nichts weniger als der ganze Welten-Sinn offenbar,
+[5420.26s -> 5428.26s]  bei denen es sich andererseits bloß um solche handeln kann.
+[5428.26s -> 5431.26s]  Und das hat in der Romantik den Witz,
+[5431.26s -> 5435.26s]  dass da ein Bergmann, ein Bergarbeiter,
+[5435.26s -> 5439.26s]  also romantischer Philosoph, daherkommt.
+[5439.26s -> 5442.26s]  Das heißt aber dem Beruf des Bergmanns,
+[5442.26s -> 5446.26s]  der Bergbau muss von Gott gesegnet werden,
+[5446.26s -> 5448.26s]  denn es gibt keine Kunst,
+[5448.26s -> 5450.26s]  der Beruf des Bergmanns,
+[5450.26s -> 5453.26s]  die ihre Teilhaber glücklicher und edler machte,
+[5453.26s -> 5456.26s]  die mehr den Glauben an eine himmlische Weisheit und Fügung erweckte
+[5456.26s -> 5461.26s]  und die Unschuld und Kindlichkeit des Herzens reiner erhielte als der Bergbau.
+[5461.26s -> 5466.26s]  Arm wird der Bergmann geboren und arm geht er wieder dahin.
+[5466.26s -> 5468.26s]  Er begnügt sich zu wissen,
+[5468.26s -> 5471.26s]  wo die metallischen Mächte gefunden werden,
+[5471.26s -> 5473.26s]  um sie zu Tage zu fördern.
+[5473.26s -> 5477.26s]  Aber ihr blendender Glanz vermag nichts über sein lauteres Herz.
+[5477.26s -> 5482.26s]  Unentzündet von gefährlichem Wahnsinn freut er sich mehr über ihre wunderlichen Bildungen
+[5482.26s -> 5486.26s]  und die Seltsamkeit ihrer Herkunft und ihrer Wohnungen
+[5486.26s -> 5489.26s]  als über ihren alles verheißenen Besitz.
+[5489.26s -> 5493.26s]  Das ist der Philosoph unter Tage.
+[5493.26s -> 5496.26s]  Heinrich von Ofterdingen.
+[5498.26s -> 5500.26s]  Und die anderen Zitate?
+[5500.26s -> 5502.26s]  Novalis.
+[5502.26s -> 5508.26s]  Novalis.
+[5508.26s -> 5510.26s]  Eine falsche,
+[5510.26s -> 5514.26s]  weil wiederum bloß diesen Standpunkt
+[5514.26s -> 5517.26s]  perfektionieren wollende Selbstkritik
+[5517.26s -> 5521.26s]  hat nicht lange auf sich warten lassen.
+[5521.26s -> 5524.26s]  Das wundersame Geheimnis des Lebens,
+[5524.26s -> 5525.26s]  der Welt,
+[5525.26s -> 5527.26s]  beziehungsweise was ihr dasselbe ist,
+[5527.26s -> 5530.26s]  die Entdeckung der Welt als Geheimnis,
+[5530.26s -> 5533.26s]  nur immer bloß sagen zu wollen,
+[5533.26s -> 5536.26s]  nur immer zu prätendieren,
+[5536.26s -> 5538.26s]  dass dem so wäre,
+[5538.26s -> 5543.26s]  ohne da jemals einen gültigen poetischen Beweis dafür abgegeben zu haben,
+[5543.26s -> 5545.26s]  also das Stück Kunst produziert zu haben,
+[5545.26s -> 5547.26s]  was dann dafür steht und sagt,
+[5547.26s -> 5549.26s]  hier ist er, der Weltensinn,
+[5549.26s -> 5552.26s]  das Lebensgeheimnis.
+[5552.26s -> 5555.26s]  Das war ein als bald verspürter Mangel
+[5555.26s -> 5559.26s]  der Transzendentalpoesien.
+[5559.26s -> 5563.26s]  Die erste Form der Kritik dieses Mangels
+[5563.26s -> 5566.26s]  hat folglich ernst gemacht
+[5566.26s -> 5568.26s]  mit dem Gebot der Romantiker,
+[5568.26s -> 5571.26s]  die Welt zu romantisieren
+[5571.26s -> 5574.26s]  und es geschafft,
+[5574.26s -> 5579.26s]  die Welt höchst selbst als Geheimnis zu entdecken.
+[5579.26s -> 5581.26s]  Die haben sich programmatisch
+[5581.26s -> 5584.26s]  ganz zu Recht Realisten getauft,
+[5585.26s -> 5587.26s]  was ja so viel heißt,
+[5587.26s -> 5589.26s]  als dass man
+[5589.26s -> 5591.26s]  den höheren Sinn der Welt
+[5591.26s -> 5594.26s]  unbedingt ansehen soll
+[5594.26s -> 5596.26s]  und ansehen muss,
+[5596.26s -> 5599.26s]  dass er auch wirklich der von der Welt ist.
+[5601.26s -> 5604.26s]  Ein programmatisches Zitat
+[5604.26s -> 5608.26s]  zur vereinfachenden Darstellung dieser Position,
+[5608.26s -> 5610.26s]  keine Literatur davon,
+[5612.26s -> 5614.26s]  so wie die Natur
+[5614.26s -> 5621.26s]  die allgemeinen Gesetze still und unaufhörlich wirken,
+[5621.26s -> 5625.26s]  und das Auffällige nur eine einzelne Äußerung dieser Gesetze ist,
+[5625.26s -> 5628.26s]  so wirkt das Sittengesetz still und seelenbelebend
+[5628.26s -> 5631.26s]  durch den unendlichen Verkehr der Menschen mit Menschen
+[5631.26s -> 5634.26s]  und die Wunder des Augenblicks bei vorgefallenen Taten
+[5634.26s -> 5638.26s]  sind nur kleine Merkmale dieser allgemeinen Kraft.
+[5638.26s -> 5640.26s]  So ist dieses Gesetz,
+[5640.26s -> 5643.26s]  so wie das der Natur das Welterhaltende ist,
+[5643.26s -> 5645.26s]  das menschenerhaltende.
+[5645.26s -> 5647.26s]  Das ist Stifter.
+[5652.26s -> 5654.26s]  Der erste Spruch.
+[5654.26s -> 5657.26s]  Man merkt schon wieder die Leier,
+[5657.26s -> 5661.26s]  so wie in der Natur die allgemeinen Gesetze still und unaufhörlich wirken
+[5661.26s -> 5665.26s]  und das Auffällige nur eine einzelne Äußerung dieser Gesetze ist.
+[5665.26s -> 5670.26s]  Das ist die berühmte Metaphysik des Milchtabs bei Stifter,
+[5670.26s -> 5672.26s]  die darin besteht,
+[5672.26s -> 5676.26s]  dass er so wärmstens empfiehlt,
+[5676.26s -> 5679.26s]  doch das Erstaunen, was man so hat,
+[5679.26s -> 5681.26s]  wenn ein Vulkan ausbricht,
+[5681.26s -> 5684.26s]  ob der ungeheuren Gewalt, die sich da manifestiert,
+[5684.26s -> 5688.26s]  sich auch doch von diesem Standpunkt des Erstaunens
+[5688.26s -> 5690.26s]  und der Bewunderung gegenüber der Natur
+[5690.26s -> 5693.26s]  auch einem überschäumenden Milchtopf zuzuwenden,
+[5693.26s -> 5696.26s]  weil dort dieselbe Kraft am Walden sei.
+[5696.26s -> 5699.26s]  Von dieser Metaphysik hin zur Idylle der Moral,
+[5699.26s -> 5701.26s]  von dieser Metaphysik hin zur Idylle der Moral,
+[5701.26s -> 5703.26s]  von dieser Metaphysik hin zur Idylle der Moral,
+[5703.26s -> 5706.26s]  ist in der Tat nur ein kleiner Schritt.
+[5706.26s -> 5709.26s]  Und so wie es hier programmatisch heißt,
+[5709.26s -> 5712.26s]  das menschenerhaltende Sittengesetz am Walden
+[5712.26s -> 5715.26s]  zu beaufsichtigen, zu beobachten,
+[5715.26s -> 5718.26s]  so war dann auch die Dichtung.
+[5718.26s -> 5721.26s]  Das ist ein idyllengesülltes Sondergleichen.
+[5721.26s -> 5724.26s]  Die wundersame Welt des Bauernstandes kommt,
+[5724.26s -> 5728.26s]  die Reize des burschwasen Familienlebens.
+[5728.26s -> 5730.26s]  Gut und Böse,
+[5730.26s -> 5734.26s]  die Welt der bürgerlichen Moral in friedlicher Koexistenz,
+[5734.26s -> 5737.26s]  prototypisch der und ewig passende Spruch
+[5737.26s -> 5742.26s]  Ja, es ist ein weites Feld.
+[5742.26s -> 5746.26s]  Die zweite Form, die tatsächliche Welt,
+[5746.26s -> 5749.26s]  oder was man meint, was sie wär,
+[5749.26s -> 5752.26s]  als den praktischen Nährboden ihrer Idealisierung
+[5752.26s -> 5756.26s]  durch die Poesie zu entdecken,
+[5756.26s -> 5758.26s]  hat sich an die Seite des Kunstideals erinnert,
+[5758.26s -> 5759.26s]  hat sich an die Seite des Kunstideals erinnert,
+[5759.26s -> 5763.26s]  wonach alle Idealisierung doch wohl bloß eine ist,
+[5763.26s -> 5765.26s]  die dem freien und sittlichen Ideal
+[5765.26s -> 5768.26s]  des Humanums verpflichtet ist.
+[5768.26s -> 5772.26s]  Und die hat, diese Erinnerung,
+[5772.26s -> 5777.26s]  hat aus einigen damals gängigen Zeitgeistparolen
+[5777.26s -> 5780.26s]  Freiheit, Demokratisierung und so weiter
+[5780.26s -> 5783.26s]  den Auftrag abgelauscht,
+[5783.26s -> 5786.26s]  sich als Vertreter
+[5786.26s -> 5788.26s]  aus der Welt des schönen Scheins,
+[5788.26s -> 5793.26s]  verpflichtet wissen zu wollen.
+[5793.26s -> 5796.26s]  Auch hierzu ein Zitat,
+[5796.26s -> 5798.26s]  ich sag's ja gleich so,
+[5798.26s -> 5805.26s]  wie ein Bart.
+[5805.26s -> 5808.26s]  Wir reden jetzt, was gegenüber Goethe
+[5808.26s -> 5813.26s]  und den Altvorderen nun die Pflicht der Poesie sei.
+[5813.26s -> 5815.26s]  Es geht um den Geist der Zeit,
+[5815.26s -> 5817.26s]  der unsichtbar über allen Köpfen waltet,
+[5817.26s -> 5819.26s]  und des Schriftstellers Hand ergreift
+[5819.26s -> 5821.26s]  und schreibt dem Buch des Lebens
+[5821.26s -> 5823.26s]  mit dem ehrenen Griffel der Geschichte.
+[5823.26s -> 5825.26s]  Die Dichter und ästhetischen Prosaisten
+[5825.26s -> 5827.26s]  stehen nicht mehr wie vormals
+[5827.26s -> 5829.26s]  allein im Dienst der Musen,
+[5829.26s -> 5831.26s]  sondern auch im Dienst des Vaterlands
+[5831.26s -> 5833.26s]  und allen mächtigen Zeitbestrebungen
+[5833.26s -> 5835.26s]  sind sie Verbündete.
+[5835.26s -> 5838.26s]  Ja, sie finden sich nie zelten im Streit
+[5838.26s -> 5840.26s]  mit jenem schönen Dienst,
+[5840.26s -> 5842.26s]  dem ihre Vorgänger huldigten.
+[5842.26s -> 5845.26s]  Sie können die Natur nicht über die Kunst vergessen machen,
+[5845.26s -> 5847.26s]  sie können nicht immer so zahlreich sein,
+[5847.26s -> 5849.26s]  sie können nicht so hart und ätherisch dahinschweben.
+[5849.26s -> 5850.26s]  Die Wahrheit und Wirklichkeit
+[5850.26s -> 5852.26s]  hat sich ihnen zu gewaltig aufgedrungen
+[5852.26s -> 5855.26s]  und mit dieser, das ist ihre Schicksalsaufgabe,
+[5855.26s -> 5858.26s]  mit dieser muss ihre Kraft so lange ringen,
+[5858.26s -> 5861.26s]  bis das Wirklichkeit, das Wirkliche nicht mehr
+[5861.26s -> 5863.26s]  als das Gemeine, das dem Ideellen
+[5863.26s -> 5867.26s]  feindlich entgegengesetzte ist.
+[5867.26s -> 5869.26s]  Dieser Standpunkt hat,
+[5869.26s -> 5872.26s]  neben einer Fülle von programmatischen Erklärungen
+[5872.26s -> 5876.26s]  dieser Art, zwei bis drei erfrischende Polemiken,
+[5877.26s -> 5882.26s]  gegen unliebsame Zustände dieser Zeit,
+[5882.26s -> 5885.26s]  also Stellen, wo der Heine ordentlich,
+[5885.26s -> 5888.26s]  ein wenig ordentlich gegen die Pfaffen hetzt
+[5888.26s -> 5893.26s]  und auch den Goethe anschifft und sagt,
+[5893.26s -> 5896.26s]  da trifft er was es hat über den Goethe,
+[5896.26s -> 5898.26s]  die Natur wollte wissen, wie sie aussah
+[5898.26s -> 5900.26s]  und sie schuf sich Goethe.
+[5900.26s -> 5907.26s]  Und die hat auch dazu geführt,
+[5907.26s -> 5912.26s]  dass die wirkliche Welt als Zitat
+[5912.26s -> 5915.26s]  die Welt der Fantasie bereicherte
+[5915.26s -> 5919.26s]  und, wie angekündigt,
+[5919.26s -> 5922.26s]  glatt die Polemik sich gefallen lassen musste,
+[5922.26s -> 5925.26s]  ihrer Idealität nicht zu entspringen.
+[5925.26s -> 5929.26s]  Dieser aufmerksame Beobachter
+[5929.26s -> 5933.26s]  des Zeitgeschehens von der Warte der Kunst aus
+[5933.26s -> 5937.26s]  haben auch den Proletarier entdeckt,
+[5937.26s -> 5941.26s]  aber natürlich nicht als Klasse,
+[5941.26s -> 5947.26s]  sondern als Zeuge der zeitgemäß anstehenden poetischen Wahrheit.
+[5947.26s -> 5951.26s]  Ich will mich dazu auf die Wiedergabe
+[5951.26s -> 5954.26s]  auch eines Klassikers beschränken,
+[5954.26s -> 5958.26s]  der hierzu folgendes sagt.
+[5959.26s -> 5966.26s]  Das ist jetzt Friedrich Engels
+[5966.26s -> 5971.26s]  über einen dieser Poeten namens Carl Beck.
+[5971.26s -> 5974.26s]  Er hat ein Lied verbrochen mit der Überschrift
+[5974.26s -> 5976.26s]  »Lieder vom armen Mann«
+[5976.26s -> 5980.26s]  und Engels erläutert über diese.
+[5980.26s -> 5985.26s]  »Die Lieder vom armen Mann beginnen mit einem Liede an ein reiches Haus«
+[5985.26s -> 5987.26s]  – zitierte Überschrift –
+[5987.26s -> 5989.26s]  die heißt »An das Haus Rothschild«.
+[5989.26s -> 5993.26s]  Gleich in der Overtüre konstatiert er,
+[5993.26s -> 5996.26s]  der Dichter, eine kleinbürgerliche Illusion,
+[5996.26s -> 6003.26s]  dass das Gold nach Rothschilds »Launen« herrscht.
+[6003.26s -> 6008.26s]  Eine Illusion, die eine ganze Reihe von Einbildungen
+[6008.26s -> 6011.26s]  über die Macht des Hauses Rothschilds nach sich zieht.
+[6011.26s -> 6015.26s]  Nicht die Vernichtung der wirklichen Macht Rothschilds,
+[6015.26s -> 6018.26s]  der gesellschaftlichen Zustände, worauf sie beruht,
+[6018.26s -> 6021.26s]  droht der Dichter.
+[6021.26s -> 6025.26s]  Er wünscht nur ihre menschenfreundliche Anwendung.
+[6025.26s -> 6030.26s]  Er jammert, dass die Bankiers keine sozialistischen Philanthropen sind,
+[6030.26s -> 6034.26s]  keine Schwärmer, keine Menschheitsbeglücker,
+[6034.26s -> 6036.26s]  sondern eben Bankiers.
+[6036.26s -> 6040.26s]  Beck besingt die feige, kleinbürgerliche Misere,
+[6040.26s -> 6043.26s]  den armen Mann, den pauvre Honte –
+[6043.26s -> 6046.26s]  »den verschämten Armen« steht unten –
+[6046.26s -> 6049.26s]  mit seinen armen, frommen und inkonsequenten Wünschen,
+[6049.26s -> 6052.26s]  den kleinen Mann in allen seinen Formen,
+[6052.26s -> 6056.26s]  nicht den stolzen, drohenden und revolutionären Proletarier.
+[6056.26s -> 6062.26s]  Die Drohungen und Vorwürfe, womit Beck das Haus Rothschild überschüttet,
+[6062.26s -> 6066.26s]  wirken allen guten Willen zum Trotz noch burlesker auf den Leser
+[6066.26s -> 6069.26s]  als eine Kapuzinerpredigt.
+[6069.26s -> 6073.26s]  Sie beruhen auf der kindlichsten Illusion über die Macht der Rothschilds,
+[6073.26s -> 6075.26s]  auf einer gänzlichen Unkenntnis des Zusammenhangs dieser Machten,
+[6075.26s -> 6078.26s]  mit den bestehenden Zuständen,
+[6078.26s -> 6080.26s]  auf einer vollkommenen Enttäuschung über die Mittel,
+[6080.26s -> 6083.26s]  welche die Rothschilds anwenden mussten, um eine Macht zu werden
+[6083.26s -> 6086.26s]  und um eine Macht zu bleiben.
+[6086.26s -> 6091.26s]  Der Kleinmut und der Unverstand, die weibliche Sentimentalität,
+[6091.26s -> 6094.26s]  die jämmerliche, prosaisch-nüchterne Kleinbürgerlichkeit,
+[6094.26s -> 6097.26s]  welche die Musen dieser Leier sind,
+[6097.26s -> 6100.26s]  tun sich vergebens Gewalt an, um fürchterlich zu werden.
+[6100.26s -> 6102.26s]  Sie werden nur lächerlich.
+[6102.26s -> 6104.26s]  Ihr forcierter Bass schlägt beständig
+[6104.26s -> 6106.26s]  in ein komisches Falsett um.
+[6106.26s -> 6110.26s]  Ihre dramatische Darstellung des gigantischen Ringes eines Enceladus
+[6110.26s -> 6114.26s]  bringt es nur zu den possierlichen Widerverrenkungen eines Hampelmanns.
+[6114.26s -> 6115.26s]  Zitat
+[6115.26s -> 6118.26s]  Nach deinen Launen herrscht das Gold.
+[6118.26s -> 6120.26s]  O, wär dein Werk so schön!
+[6120.26s -> 6122.26s]  O, wär dein Herz so groß wie deine Macht!
+[6122.26s -> 6124.26s]  Abschlusskommentar von Engels
+[6124.26s -> 6128.26s]  Es ist schade, dass Rothschild die Macht um unser Tichter das Herz hat.
+[6128.26s -> 6129.26s]  Er zitiert
+[6129.26s -> 6132.26s]  Werden sie beide vereint, wär's für die Erde zu viel.
+[6134.26s -> 6145.26s]  Ich will im Fortgang bei dieser Abteilung der politischen Wahrheit bleiben,
+[6145.26s -> 6151.26s]  nicht weil zu erwarten steht, dass die jemals etwas Brauchbares in Sachen Wahrheit liefern würde,
+[6151.26s -> 6158.26s]  aber weil sich an ihrer Fortentwicklung ein wenig demonstrieren lässt,
+[6158.26s -> 6162.26s]  was für ein Verhängnis dieses ideelle Programm,
+[6162.26s -> 6169.26s]  die Welt vom Standpunkt der Kunst aus kommentierend zu begleiten,
+[6169.26s -> 6172.26s]  in sich wirkt,
+[6172.26s -> 6178.26s]  je mehr es prätendiert, auf Fragen einzusteigen,
+[6178.26s -> 6181.26s]  die alle, alle Menschen,
+[6181.26s -> 6185.26s]  und zwar jetzt nicht mehr bloß im Namen der reinen Idealität,
+[6185.26s -> 6191.26s]  sondern mit der Prätention im Namen der Praxis angehen sollen.
+[6191.26s -> 6193.26s]  Hierzu als erstes die Naturalisten,
+[6193.26s -> 6195.26s]  wir sind jetzt in der letzten Abteilung,
+[6195.26s -> 6198.26s]  aber wir schwimmen.
+[6198.26s -> 6205.26s]  Das soziale Drama unterscheidet sich vom herkömmlichen bürgerlichen Trauerspiel vor allem dadurch,
+[6205.26s -> 6212.26s]  dass es nicht bloß Honoratioren, also Pfarrer, Kommerzienräte, Sekretärs oder Leutnants,
+[6212.26s -> 6215.26s]  sondern auch den vierten Stand auf die Bühne bringt.
+[6215.26s -> 6219.26s]  Zweitens dadurch, dass es in tiefem Ermessen der Motive
+[6219.26s -> 6226.26s]  auch die physiologische und pathologische Seite des Charakters zu beleuchten
+[6226.26s -> 6229.26s]  und anstelle der abgedrossenen Spießbürgerkonflikte
+[6229.26s -> 6233.26s]  die großen Geisteskämpfe der Wirklichkeit auf die Bühne zu bringen sucht.
+[6233.26s -> 6240.26s]  Endlich dadurch, dass es den konventionellen Theaterjargon durch die Sprache des Lebens ersetzt.
+[6240.26s -> 6243.26s]  Kaum ist der vierte Stand auf der Bühne,
+[6243.26s -> 6247.26s]  wird er wieder charakterlich seziert,
+[6247.26s -> 6248.26s]  wird,
+[6249.26s -> 6253.26s]  die Errungenschaft, die kapitalistische des Poetarias,
+[6253.26s -> 6256.26s]  als Charakter ausgedeutet.
+[6256.26s -> 6261.26s]  Als der ist er, so sehen Künstler eben das immer,
+[6261.26s -> 6267.26s]  wiederum aufzufassen als Ensemble höherer Geistigkeit,
+[6267.26s -> 6274.26s]  die die Kunst der Dichter in ihn hineingelegt hat.
+[6274.26s -> 6277.26s]  Bemerklich ist, dass diesmal
+[6277.26s -> 6280.26s]  der Geist der Kunst ist.
+[6280.26s -> 6283.26s]  Es ist ja schon später geworden,
+[6283.26s -> 6287.26s]  der Geist ist auch außerhalb der Kunst fortgeschritten.
+[6287.26s -> 6290.26s]  Diese geistigen Prinzipien
+[6290.26s -> 6293.26s]  sich zusammensetzen
+[6293.26s -> 6296.26s]  aus dem weltanschaulichen Unfug,
+[6296.26s -> 6301.26s]  den wissenschaftliche Zweige
+[6301.26s -> 6304.26s]  mittlerweile schon produziert haben.
+[6307.26s -> 6314.26s]  Die haben schon, unabhängig vom Dichter,
+[6314.26s -> 6318.26s]  jeder Fachbereich für sich,
+[6318.26s -> 6324.26s]  Prinzipien geistiger Determiniertheit des Menschen ersonnen
+[6324.26s -> 6330.26s]  und der Dichter findet in denen die Fundgrube,
+[6330.26s -> 6335.26s]  um sich sein Charakterbild zurechtzuschnitzen.
+[6335.26s -> 6337.26s]  Da feiern dann,
+[6337.26s -> 6339.26s]  hier ist das Zitat,
+[6339.26s -> 6343.26s]  die psychologischen und die pathologischen und physiologischen
+[6343.26s -> 6346.26s]  Determinanten des Charakters,
+[6346.26s -> 6349.26s]  da feiern dann alle Spielarten des damals frisch aufgekommenen
+[6349.26s -> 6354.26s]  Rassismus, des Sozialdarwinismus,
+[6354.26s -> 6359.26s]  der Erblichkeit von Alkoholismus,
+[6359.26s -> 6362.26s]  der Vererbung von Armut,
+[6362.26s -> 6363.26s]  ...
+[6363.26s -> 6367.26s]  durch das Milieu übrigens auch,
+[6367.26s -> 6370.26s]  im Prinzip
+[6370.26s -> 6373.26s]  die Weltanschauungskonstruktionen,
+[6373.26s -> 6377.26s]  die ja heute ihrem Grundbestand
+[6377.26s -> 6382.26s]  noch schwer geglaubt werden.
+[6382.26s -> 6389.26s]  Ja und die erfahren ihren Auftritt auf der Bühne.
+[6389.26s -> 6391.26s]  Die Sprache des Lebens,
+[6391.26s -> 6392.26s]  die hier zitiert ist,
+[6392.26s -> 6401.58s]  zitiert ist. Ja klar, der wunderbare revolutionäre Dichter Hauptmann, der war eben genau darin
+[6401.58s -> 6411.18s]  revolutionär, dass er diesen ekelhaften schlesischen Dialekt auf die Bühne zerrte. Und er hat
+[6411.18s -> 6419.42s]  von seinem Stück, das sollte ursprünglich De Waber heißen, als man ihn angefahren hat
+[6419.42s -> 6428.48s]  und ein wenig ihn angemacht hat, ob man dessen ein bisschen zu viel des Guten wäre. Und er hat sich dann
+[6428.48s -> 6437.46s]  kommentierend auf das eingelassen, was dieses Stück sollte. Und er hat halt gesagt, da muss ich jetzt gar nicht mehr
+[6437.46s -> 6446.64s]  viel kommentieren, er hat es sich so ähnlich ausgedrückt. Die Weber, ja, das sind so Sinnbilder, das sind Allegorien.
+[6449.42s -> 6461.88s]  Davon, dass in diesem Jammertal menschliche Not manchmal ganz schön gewaltig ist. Und er hat soziales Elend in der Absicht
+[6461.88s -> 6477.48s]  auf die Bühne gezerrt, um die religiöse Botschaft vom menschlichen Jammertal auf Erden vorzustellen. Es ist halt so, dass Dichter
+[6479.42s -> 6491.58s]  außer ihren idealistischen Vorstellungen auch dann nicht, und dann erst recht nicht, wenn sie ihrem Vorhaben nach aufs wirkliche Leben einsteigen
+[6491.58s -> 6506.52s]  und im Elend herumstochern, zu irgendeinem Begriff von irgendwas machen und nie darauf verfallen, ihren billigen Vorwurf des Idealismus,
+[6506.52s -> 6509.38s]  das Monieren, die Welt wäre so furchtbar unideal.
+[6509.42s -> 6528.18s]  Irgendwann mal sein zu lassen und die Folge zu ziehen, dass es ja dann wohl in dieser Welt um was anderes geht, wenn die schon eine einzige Widerlegung
+[6528.18s -> 6536.18s]  ihres idealistischen Ansinnens ist, sondern dass sie stets zufrieden waren, diesen moralischen Vorhalt gemacht zu haben.
+[6536.18s -> 6539.18s]  Ein weiteres Beispiel.
+[6539.42s -> 6563.42s]  Dafür die soziale Frage als Inspirationsquelle für Kunst zu verwenden, ist der Brecht, bei dem will ich bezüglich des Unfugs mit dem Belehrungsanspruch der Kunst ernst zu machen
+[6563.42s -> 6569.42s]  und hier vorzugsweise für die gerechte Sache des Sozialismus zu agitieren, mittels Kunst.
+[6569.42s -> 6574.42s]  Ich möchte mich auf drei Punkte beschränken.
+[6574.42s -> 6584.42s]  Der erste ist der Hinweis darauf, dass natürlich auch der Kommunist-Sozialist Brecht
+[6584.42s -> 6592.42s]  den Glauben an die Zauberkraft der poetischen Wahrheit nie halt fahren lassen.
+[6592.42s -> 6598.42s]  Der hat seit seines Lebens null Kritik am schillerischen Idealismus gehabt,
+[6598.42s -> 6605.42s]  sondern den Standpunkt diesem Idealismus gegenüber vertreten.
+[6605.42s -> 6618.42s]  Es kommt genau heute, wo das wirkliche Elend zuschlägt, schwer darauf an, die schillerische idealistische Position der Freiheit,
+[6618.42s -> 6622.42s]  so hat er sich ausgedrückt, zu aktualisieren.
+[6622.42s -> 6625.42s]  Er hat die Auffassung gehabt,
+[6625.42s -> 6630.42s]  der wertvolle Stoff der klassischen Dichtkunst,
+[6630.42s -> 6636.42s]  der müsste von wenigen Ausnahmen abgesehen, die waren ihm wohl zu abseitig,
+[6636.42s -> 6641.42s]  aktualisiert werden, der müsste in Formen gebracht werden,
+[6641.42s -> 6647.42s]  die einem politisierten Zeitungsleser und Mittelbranz gemüht waren.
+[6647.42s -> 6651.42s]  Das kommt daher,
+[6651.42s -> 6653.42s]  dass er natürlich,
+[6653.42s -> 6656.42s]  in Sachen Sozialismus,
+[6656.42s -> 6659.42s]  also hinsichtlich seines politischen Standpunktes,
+[6659.42s -> 6666.42s]  eine entsprechend verkehrte Kritik an dem Kapitalismus schon hatte, den er vorfand.
+[6666.42s -> 6670.42s]  Er hat sich sehr leicht gemacht, moralisch,
+[6670.42s -> 6673.42s]  das Elend, was er vorfand,
+[6673.42s -> 6676.42s]  gedeutet als,
+[6676.42s -> 6681.42s]  ja hier sehe ich doch wieder den praktischen und sinnvollen Beweis dafür,
+[6681.42s -> 6684.42s]  dass es der Welt an ihrer Idealität gebricht.
+[6684.42s -> 6687.42s]  Er hat es geschafft zum Beispiel,
+[6687.42s -> 6690.42s]  dem Schiller St. Don Carlos zu vergleichen
+[6690.42s -> 6695.42s]  und dessen Leiden an der Freiheit zu kontrastieren
+[6695.42s -> 6698.42s]  mit einem Elendsbericht aus Chicago
+[6698.42s -> 6700.42s]  und zu sagen,
+[6700.42s -> 6704.42s]  Elend, das sehe ich, Leiden an wirklicher Unfreiheit
+[6704.42s -> 6708.42s]  und deswegen kann ich nicht mehr an Schillers Freiheit glauben.
+[6708.42s -> 6710.42s]  Insofern, so dieses Buch,
+[6710.42s -> 6713.42s]  insofern zu dieser moralischen Deutung
+[6713.42s -> 6716.42s]  seiner Umstände, der sozialen Frage als
+[6716.42s -> 6719.42s]  hier verstößt doch die bürgerliche Welt
+[6719.42s -> 6721.42s]  gegen ein Prinzip,
+[6721.42s -> 6723.42s]  was ihrer Sache nach doch heilig ist,
+[6723.42s -> 6728.42s]  Freiheit,
+[6728.42s -> 6730.42s]  eine ist,
+[6730.42s -> 6734.42s]  die den moralischen Standpunkt, den er vorfindet,
+[6734.42s -> 6737.42s]  nie verlässt,
+[6737.42s -> 6739.42s]  ist in dieser moralischen Standpunkt,
+[6740.42s -> 6745.42s]  also das Gerechtigkeitszenieren
+[6745.42s -> 6748.42s]  der bürgerlichen Moralisten,
+[6748.42s -> 6753.42s]  das Befinden über die Welt als eine Welt der Ungerechtigkeit,
+[6753.42s -> 6757.42s]  ein Dokument dafür gewiesen,
+[6757.42s -> 6762.42s]  dass objektiv und nicht bloß in der schillerischen oder in seiner Idee
+[6762.42s -> 6764.42s]  die Welt eine ist,
+[6764.42s -> 6768.42s]  die praktisch auf dem Weg ist,
+[6768.42s -> 6770.42s]  hin dorthin,
+[6770.42s -> 6778.42s]  wo sie sich in Übereinstimmung mit dem Ideal erweist.
+[6778.42s -> 6785.42s]  Das hat ihn dazu inspiriert,
+[6785.42s -> 6791.42s]  eine Theaterwelt nach genau diesen Maßstäben
+[6791.42s -> 6794.42s]  des moralischen Sinierens nach Gut und Böse
+[6794.42s -> 6796.42s]  vom Standpunkt der Gerechtigkeit aus
+[6796.42s -> 6798.42s]  zurecht zu zimmern,
+[6798.42s -> 6801.42s]  durchaus in der Absicht,
+[6801.42s -> 6805.42s]  das Publikum, das er so ansprach,
+[6805.42s -> 6808.42s]  aufzuhetzen,
+[6808.42s -> 6810.42s]  dazu anzuhalten,
+[6810.42s -> 6811.42s]  es möge,
+[6811.42s -> 6814.42s]  naja, der Bericht ist so ein bisschen revisionistisch,
+[6814.42s -> 6816.42s]  es möge die Welt verändern mit dem Argument,
+[6816.42s -> 6822.42s]  eine Veränderung ist möglich.
+[6822.42s -> 6824.42s]  Heraus kommt
+[6824.42s -> 6827.42s]  in der Tat das Typische,
+[6828.42s -> 6831.42s]  einen moralischen Standpunkt,
+[6831.42s -> 6833.42s]  den es gibt,
+[6833.42s -> 6836.42s]  wird Anschauungsmaterial präsentiert,
+[6836.42s -> 6838.42s]  auf das er sich,
+[6838.42s -> 6840.42s]  innerhalb der Maßstäbe,
+[6840.42s -> 6842.42s]  die ihm schon längst vertraut sind,
+[6842.42s -> 6844.42s]  spielerisch betätigt.
+[6847.42s -> 6849.42s]  Zweiter Punkt, so Brecht,
+[6849.42s -> 6851.42s]  genau das,
+[6851.42s -> 6854.42s]  dass er eigentlich objektiv nichts mehr gemacht hat,
+[6854.42s -> 6856.42s]  oder nicht mehr inszeniert hat,
+[6856.42s -> 6859.42s]  als seinem Publikum
+[6859.42s -> 6866.42s]  Erbauungsmaterial für das Sinieren nach Gerechtigkeit zu liefern,
+[6866.42s -> 6870.42s]  das hat den Brecht dazu veranlasst,
+[6870.42s -> 6876.42s]  sich in einer ziemlich bezeichnenden Weise
+[6876.42s -> 6881.42s]  erneut zu dem Glauben an die Zauberkraft namens Kunst
+[6881.42s -> 6883.42s]  zu bekennen.
+[6883.42s -> 6885.42s]  Er hat sein Theater,
+[6885.42s -> 6891.42s]  um diesen berühmten V-Effekt bereichert,
+[6891.42s -> 6894.42s]  und genau das,
+[6894.42s -> 6897.42s]  was sich beim Vergnügen
+[6897.42s -> 6899.42s]  bei seinen Stücken
+[6899.42s -> 6902.42s]  eingestellt hat,
+[6902.42s -> 6906.42s]  affirmativ korrigiert.
+[6906.42s -> 6908.42s]  Da sitzt man in einem Stück,
+[6908.42s -> 6910.42s]  und da passiert irgendwas,
+[6910.42s -> 6912.42s]  entweder einer schiebt ein Plakat vorbei,
+[6912.42s -> 6914.42s]  oder ein Sprecher tritt auf,
+[6914.42s -> 6916.42s]  oder irgendwas Verfremdenes,
+[6916.42s -> 6919.42s]  halt deshalb V-Effekt.
+[6919.42s -> 6922.42s]  Da wird dem Publikum mitgeteilt,
+[6922.42s -> 6924.42s]  habt ihr denn begriffen,
+[6924.42s -> 6926.42s]  dass das, was euch jetzt so vergnügt,
+[6926.42s -> 6928.42s]  etwas ganz anderes ist?
+[6928.42s -> 6933.42s]  Habt ihr die Lehre daraus gezogen?
+[6933.42s -> 6935.42s]  Die geht euch an,
+[6935.42s -> 6938.42s]  und so zu.
+[6941.42s -> 6943.42s]  Das Publikum erbaut sich dabei,
+[6943.42s -> 6946.42s]  oder erfreut sich darin,
+[6946.42s -> 6948.42s]  in gesamtgesellschaftlichem Maßstab
+[6948.42s -> 6950.42s]  gute und böse Charaktere,
+[6950.42s -> 6953.42s]  also Kapitalisten und die armen Guten,
+[6953.42s -> 6955.42s]  zu entdecken,
+[6955.42s -> 6957.42s]  ist aber wegen die spannend aufgemachte
+[6957.42s -> 6958.42s]  oder nicht,
+[6958.42s -> 6960.42s]  das Geschmack sei wohl,
+[6960.42s -> 6963.42s]  Handlung verwickelt,
+[6963.42s -> 6967.42s]  und dann setzt Brecht drauf,
+[6967.42s -> 6969.42s]  diese Stellung des Publikums,
+[6969.42s -> 6971.42s]  die er überhaupt erstmal in die Wege leitet,
+[6971.42s -> 6979.42s]  einerseits zu korrigieren,
+[6979.42s -> 6982.42s]  andererseits zu unterstützen.
+[6982.42s -> 6984.42s]  Ihr liegt goldrichtig in eurem Vergnügen,
+[6984.42s -> 6985.42s]  bloß begreift,
+[6985.42s -> 6988.42s]  dass dies was anderes ist.
+[6988.42s -> 6990.42s]  Dritter Punkt,
+[6990.42s -> 6994.42s]  das ist die von Brecht gelieferte Interpretation,
+[6994.42s -> 6996.42s]  des von ihm angezettelten Unsens
+[6996.42s -> 6998.42s]  als objektive Ohnmacht.
+[6998.42s -> 7000.42s]  Hier ist bloß ein Hinweis,
+[7000.42s -> 7004.42s]  es gibt von ihm das Zitat,
+[7004.42s -> 7007.42s]  das gegen ihn gespritzte Gift verwandelt
+[7007.42s -> 7011.42s]  der Kapitalismus in Rauschgift und genießt es,
+[7011.42s -> 7014.42s]  was schon wieder
+[7014.42s -> 7019.42s]  ein schönes, aber verkehrtes Bild ist.
+[7019.42s -> 7021.42s]  Die bildmäßige Anreicherung
+[7021.42s -> 7026.42s]  eines moralischen Standpunkts der Gerechtigkeit
+[7026.42s -> 7029.42s]  ist eben keine Widerlegung,
+[7029.42s -> 7032.42s]  sondern die Bestätigung eines Fehlers,
+[7032.42s -> 7035.42s]  der darin besteht,
+[7035.42s -> 7038.42s]  die Welt mit falschen Maßstäben
+[7038.42s -> 7042.42s]  des praktischen Zurechtkommens zu deuten.
+[7042.42s -> 7045.42s]  Das ist insofern auch ein Genuss per se
+[7045.42s -> 7050.42s]  und nie und nimmer Gift.
+[7050.42s -> 7053.42s]  Der Witz mit dem Genuss der Bourgeoisie,
+[7053.42s -> 7056.42s]  dazu auch noch was,
+[7056.42s -> 7059.42s]  der brechtsche Unsinn,
+[7059.42s -> 7065.42s]  die Idee einer sozialistischen Revolution
+[7065.42s -> 7069.42s]  umzumünzen in die Revolutionierung des Theaters,
+[7069.42s -> 7075.42s]  die hat in der Tatlos dazu getaucht,
+[7075.42s -> 7079.42s]  dass dann, wenn er brecht am Spielplan ist,
+[7079.42s -> 7085.42s]  dann ganz normale, bürgerliche Normaldenker
+[7085.42s -> 7088.42s]  hier wissen, was um Kommunismus zu halten ist,
+[7088.42s -> 7091.42s]  schauen vorbei,
+[7091.42s -> 7093.42s]  tatsächlich dazu kommen,
+[7093.42s -> 7095.42s]  dem kommunistischen Standpunkt
+[7095.42s -> 7098.42s]  eben via der brechtschen Inszenierung
+[7098.42s -> 7103.42s]  so etwas wie ein abzugewinnen.
+[7103.42s -> 7106.42s]  Wir stellen sich hier
+[7106.42s -> 7108.42s]  und würdigen die Veranstaltung
+[7108.42s -> 7112.42s]  zurecht als interessantes Theater,
+[7112.42s -> 7115.42s]  welches auf den ansonsten vorher öden Kommunismus
+[7115.42s -> 7118.42s]  wohl ein wenig abfärbt,
+[7118.42s -> 7120.42s]  und für die drei Stunden,
+[7120.42s -> 7122.42s]  die es also so bunt zugeht,
+[7122.42s -> 7125.42s]  als zwar objektiv abgeschmackte, abgelutschte,
+[7125.42s -> 7128.42s]  aber es für den Abend durchaus interessante Idee
+[7128.42s -> 7130.42s]  durchgehen lässt.
+[7130.42s -> 7132.42s]  Ab Brecht tobt der Klassenkampf
+[7132.42s -> 7134.42s]  in der Tat zur Erbauung der Bourgeoisie
+[7134.42s -> 7136.42s]  und wie das geht,
+[7136.42s -> 7138.42s]  dieser unerharmliche Korrespondent
+[7138.42s -> 7140.42s]  der Süddeutschen Zeitung berichtet.
+[7140.42s -> 7143.42s]  Herr Respechke hat in einer Aufführung gewesen zu sein,
+[7143.42s -> 7146.42s]  wo der Inszenierer Brechts Verfremdungseffekt
+[7146.42s -> 7148.42s]  nochmal verfremdet hat
+[7148.42s -> 7152.42s]  und dem Publikum die Stühle vorenthalten hat.
+[7152.42s -> 7154.42s]  Drei Stunden lang im Theater stehen,
+[7154.42s -> 7157.42s]  es blieb keine Wahl, na klar.
+[7157.42s -> 7160.42s]  Eine Zumutung, aber sie hatte Funktion.
+[7160.42s -> 7162.42s]  Das eigene Gewicht in immer kürzeren Abständen
+[7162.42s -> 7165.42s]  von einem Bein aufs andere verlagernd,
+[7165.42s -> 7167.42s]  entdeckte ich, dass die Sache,
+[7167.42s -> 7169.42s]  die da szenisch verhandelt wurde,
+[7169.42s -> 7171.42s]  mich und jedermann wider Erwarten
+[7171.42s -> 7174.42s]  tatsächlich ganz direkt anging.
+[7174.42s -> 7175.42s]  Und die wechselnden Nebenleute,
+[7175.42s -> 7177.42s]  ähnlich gequält die Stunden überstehenden,
+[7177.42s -> 7179.42s]  merken es auch.
+[7179.42s -> 7181.42s]  Das ist keineswegs selbstverständlich
+[7181.42s -> 7182.42s]  bei Berthold Brechts
+[7182.42s -> 7184.42s]  »Heiliger Johann der Schlachthöfe«,
+[7184.42s -> 7186.42s]  dieser jetzt schon ein halbes Jahrhunderte alten
+[7186.42s -> 7191.42s]  Attacke auf das kapitalistische Wirtschaftssystem.
+[7191.42s -> 7196.42s]  Abschließend noch zwei Formen,
+[7196.42s -> 7198.42s]  vom dichterischen Standpunkt aus,
+[7198.42s -> 7202.42s]  kritisch auf Stunden des nationalen Schicksals
+[7202.42s -> 7204.42s]  einzusteigen.
+[7205.42s -> 7213.42s]  Beispiele streng deutschem Kulturgeistes.
+[7213.42s -> 7217.42s]  Der eine, Heinrich Mann,
+[7217.42s -> 7221.42s]  hat eine ästhetisch veredelte,
+[7221.42s -> 7225.42s]  politisch-idealistische Deutung des Umstands,
+[7225.42s -> 7229.42s]  dass ein Staat einen Krieg auch mal verlieren kann.
+[7229.42s -> 7233.42s]  Seine Behauptung zur Weltkrieg Nummer 1 heißt,
+[7233.42s -> 7236.42s]  Krieg verloren,
+[7236.42s -> 7239.42s]  weil der Staat nicht auf Geist
+[7239.42s -> 7242.42s]  von klassischem Adel gegründet war,
+[7242.42s -> 7245.42s]  die Gewalt nicht in der Gewalt
+[7245.42s -> 7248.42s]  im hohen Geist ihre Grundlage hatte,
+[7248.42s -> 7253.42s]  sondern eben bloß Gewalt war.
+[7253.42s -> 7257.42s]  Das Zitat Heinrich Mann.
+[7257.42s -> 7261.42s]  Aber was ist Recht?
+[7261.42s -> 7263.42s]  Nein, fangen wir mal an.
+[7263.42s -> 7266.42s]  Was ist Macht, wenn sie nicht Recht ist?
+[7266.42s -> 7269.42s]  Das tiefste Recht, Wurzeln in dem Gewissen
+[7269.42s -> 7273.42s]  erfüllter Pflicht, erkämpfter Ideale, erhöhten Menschentums.
+[7273.42s -> 7277.42s]  Ein Reich, das einzig auf Gewalt bestanden hat
+[7277.42s -> 7280.42s]  und nicht auf Freiheit, Gerechtigkeit und Wahrheit,
+[7280.42s -> 7283.42s]  ein Reich, in dem nur befohlen und gehorcht,
+[7283.42s -> 7286.42s]  verdient und ausgebeutet, des Menschen aber nicht
+[7286.42s -> 7289.42s]  geachtet ward, kann nicht siegen.
+[7289.42s -> 7292.42s]  In der Deutung des Schöngeistes
+[7292.42s -> 7295.42s]  geht Macht in Ordnung
+[7295.42s -> 7298.42s]  und ist notorisch nicht kleinzukriegen,
+[7298.42s -> 7302.42s]  wenn sie daherkommt in einer Berufung
+[7302.42s -> 7304.42s]  auf höhere ideelle Titel.
+[7304.42s -> 7307.42s]  Wenn sie von sich reklamiert,
+[7307.42s -> 7311.42s]  dass sie bloß der Dienst an einem höheren Auftrag ist
+[7311.42s -> 7318.42s]  und dieser schönfärberische Tillreigen
+[7318.42s -> 7321.42s]  Menschenrecht, Freiheit und so weiter,
+[7321.42s -> 7324.42s]  den man ja von heute kennt,
+[7324.42s -> 7327.42s]  ist in der Auffassung dieses Schöngeistes
+[7327.42s -> 7330.42s]  die Erfolgsgarantie der Gewalt,
+[7330.42s -> 7333.42s]  die sich dann wohl, die Gewalt nass zu tun,
+[7333.42s -> 7336.42s]  gemäß ihren Zwecken und Interessen durchsetzt.
+[7336.42s -> 7339.42s]  Die kümmern ihn nicht.
+[7339.42s -> 7342.42s]  So war die Position, jetzt die Kunst.
+[7342.42s -> 7346.42s]  Die geht üblich, wie wir das schon kennen.
+[7346.42s -> 7350.42s]  Heinrich Mann schnitzt sich aus diesem
+[7350.42s -> 7355.42s]  politischen Idealismus eine Figur des Untertanen zurecht.
+[7355.42s -> 7360.42s]  Ja und wie wir es auch schon kennen,
+[7360.42s -> 7364.42s]  diese Figur ist als Charakter Untertan
+[7364.42s -> 7369.42s]  eine einzige Allegorie der manchen Idee
+[7369.42s -> 7371.42s]  von der Abwesenheit und Menschentum
+[7371.42s -> 7374.42s]  als Urquelle für das Versagen der Zwecke,
+[7374.42s -> 7375.42s]  die die Gewalt hat.
+[7375.42s -> 7379.42s]  Er ist keine echte Persönlichkeit,
+[7379.42s -> 7381.42s]  keine echte Gesinnung
+[7381.42s -> 7384.42s]  und ein einziger Operettennationalismus.
+[7384.42s -> 7388.42s]  Beispiel, wie er, sagte Buck,
+[7388.42s -> 7390.42s]  das ist der Gegenspieler dieses Untertanen,
+[7390.42s -> 7393.42s]  waren zu jeder Zeit viele Tausende,
+[7393.42s -> 7395.42s]  die ihr Geschäft versahen
+[7395.42s -> 7397.42s]  und eine politische Meinung hatten.
+[7397.42s -> 7400.42s]  Was hinzukommt, denn jetzt kommt der Typus Untertan
+[7400.42s -> 7403.42s]  und ihn zu einem neuen Typus macht,
+[7403.42s -> 7405.42s]  ist einzig die Geste.
+[7405.42s -> 7408.42s]  Das Prahlerische des Auftretens,
+[7408.42s -> 7412.42s]  die Kampfstimmung einer vorgeblichen Persönlichkeit,
+[7412.42s -> 7414.42s]  die Gesinnung trägt Kostüm,
+[7414.42s -> 7416.42s]  Reden fallen wie von Kreuzrittern,
+[7416.42s -> 7418.42s]  in des man Blech erzeugt oder Papier
+[7418.42s -> 7421.42s]  und das Pappspiert wird gezogen für einen Begriff
+[7421.42s -> 7424.42s]  wie den der Majestät, den doch kein Mensch mehr,
+[7424.42s -> 7427.42s]  außer in Märchenbüchern, ernsthaft erlebt.
+[7427.42s -> 7431.42s]  Die Vorstellung dieses negativen Pappkameraden,
+[7431.42s -> 7434.42s]  eines Edelcharakters Typus Wallenstein,
+[7435.42s -> 7440.42s]  die gilt in der Tat noch immer als messerscharfe Einsicht
+[7440.42s -> 7443.42s]  und Kritik am Untertanen,
+[7443.42s -> 7450.42s]  allerdings auch bloß bei den demokratischen Untertanenmitbildungen.
+[7450.42s -> 7455.42s]  Die Pflegen dazu genießen ihre eigene Auffassung von sich,
+[7455.42s -> 7463.42s]  dass sie eben wegen der Titel Freiheit, Menschenrecht usw.
+[7463.42s -> 7470.42s]  bei der richtigen Veranstaltung Bundesrepublik mitmachen.
+[7470.42s -> 7475.42s]  Daran merkt man auch, wie nützlich Bildung ist.
+[7475.42s -> 7478.42s]  Das andere Beispiel, Günter Grass,
+[7478.42s -> 7485.42s]  hat den nächsten verlorenen deutschen Krieg verarbeitet
+[7485.42s -> 7491.42s]  und der hat aus der bundesdeutschen Staatsideologie
+[7491.42s -> 7493.42s]  bezüglich der Rechtsfolgen ab,
+[7493.42s -> 7496.42s]  eine Rechtsnachfolgerschaft zum Faschismus,
+[7496.42s -> 7500.42s]  also dem feststehenden Dogma, was ist der Faschismus,
+[7500.42s -> 7507.42s]  böse, ein Rätsel, eine einzige Frage, wie er dazu kommen konnte,
+[7507.42s -> 7513.42s]  plus die Frage, wie konnten die Leute da nur mitmachen.
+[7513.42s -> 7519.42s]  Der hat aus dieser Ideologie nun nicht einen allegorischen Zeigefinger geschnitzt,
+[7519.42s -> 7522.42s]  sondern gestaltet die politische Ideologie,
+[7523.42s -> 7531.42s]  des selben Inhalts, eben unmittelbar poetisch aus.
+[7531.42s -> 7539.42s]  Seine Ideologie nach 1945 und nach dem Zusammenbruch Deutschlands heißt,
+[7539.42s -> 7541.42s]  Zitat von Günter Grass,
+[7541.42s -> 7547.42s]  in gefärbten Uniformstücken standen wir früh reif zwischen den Trümmern.
+[7547.42s -> 7551.42s]  Wir waren skeptisch und fortan bereit, jedes Wort zu prüfen
+[7551.42s -> 7554.42s]  und nicht mehr blindlings zu glauben.
+[7554.42s -> 7559.42s]  Jede Ideologie prallte an uns ab.
+[7559.42s -> 7566.42s]  Dies ist die Kundgabe von Grass.
+[7566.42s -> 7579.42s]  Erstens, dass er, Grass, sich von Hitler in seinem guten Glauben an Deutschland verraten sieht.
+[7579.42s -> 7585.42s]  Und zweitens, diesen guten Glauben
+[7585.42s -> 7591.42s]  eine neue Begeisterung für seine neue Heimat Bundesrepublik Deutschland
+[7591.42s -> 7596.42s]  auch noch nicht wiederhergestellt sieht.
+[7596.42s -> 7602.42s]  Letzteres, die glückselige Parteinahme für die Bundesrepublik und ihre Idee
+[7602.42s -> 7607.42s]  ist, wie man weiß, dem Grass im Laufe der Zeit vorträftig gelungen.
+[7607.42s -> 7612.42s]  Doch erstmal hat er sich von seiner politischen Ideologie inspirieren lassen,
+[7612.42s -> 7615.42s]  als Poeten.
+[7615.42s -> 7621.42s]  Die Kritiklosigkeit dieses Mannes gegenüber dem Faschismus,
+[7621.42s -> 7625.42s]  die sich dessen ginge, als, Zitat von Grass,
+[7625.42s -> 7629.42s]  Lust am Faschismus imaginiert
+[7629.42s -> 7634.42s]  und ihn so zu einem einzigen Mysterium verrätselt hat.
+[7634.42s -> 7636.42s]  Zweitens,
+[7636.42s -> 7642.42s]  aber auch die Kritiklosigkeit an dem Rechtsnachfolgerstaat,
+[7642.42s -> 7646.42s]  der eben bloß dies der höllischste Einwand eines Grass,
+[7646.42s -> 7653.42s]  geistig noch nicht so recht die anheimelnde Neuheimat darstellt.
+[7653.42s -> 7659.42s]  Diese freunden Versatzstücke hat er in ein zeitgeschichtliches Gemälde getaucht
+[7659.42s -> 7665.42s]  und in seiner Blechtrommel, 30 Jahre lang deutsche Zeitgeschichte,
+[7666.42s -> 7672.42s]  und die Kontinuität des Anpasslatums des deutschen Bürgers
+[7672.42s -> 7676.42s]  aus der Perspektive einer skurrilen Gegenfigur heraus,
+[7676.42s -> 7681.42s]  dieser famose Oskar, eben zu einem einzigen Rätsel gestaltet.
+[7681.42s -> 7686.42s]  Dies geht, indem einen dreijährigen Oskar,
+[7686.42s -> 7693.42s]  charakterlich, teils gemein, teils genial, nihilistisch, gewitzt, schwul, halt alles,
+[7693.42s -> 7695.42s]  je nachdem,
+[7695.42s -> 7700.42s]  mit dem Wachsen des Protests gegen die Erwachsenenwelt aufhören lässt,
+[7700.42s -> 7703.42s]  ihn mit einer Kindertrommel ausstattet
+[7703.42s -> 7710.42s]  und einfach allerlei Banales, Befremdliches,
+[7710.42s -> 7715.42s]  Unerklärliches, aber auch stinknormales und Gewöhnliches erleben lässt
+[7715.42s -> 7720.42s]  aus dem Reich, dem Dritten Reich und aus dem Bundesdeutschen.
+[7720.42s -> 7724.42s]  An der Stelle, bis zu der ich das Buch gelesen habe,
+[7725.42s -> 7734.42s]  kommt vom Autor dankenswerterweise eine Verstehensbrücke,
+[7734.42s -> 7739.42s]  wie das alles irgendwie zu verstehen, auf jeden Fall nicht zu verstehen sei.
+[7739.42s -> 7743.42s]  Da heißt es, naja, das ist die Geschichte, dieser kleine Oskar mit der Trommel
+[7743.42s -> 7748.42s]  hat so Nazi-Aufmärsche mit seiner Trommelverwirrung gebracht.
+[7748.42s -> 7754.42s]  Die haben dann plötzlich angefangen Charleston zu tanzen und, ach ja,
+[7754.42s -> 7756.42s]  das ist die Geschichte.
+[7756.42s -> 7758.42s]  Längere Zeit lang, genau gesagt bis zum November 38,
+[7758.42s -> 7761.42s]  habe ich mit meiner Trommel unter Tribünen hockend,
+[7761.42s -> 7763.42s]  mehr oder weniger erfolgbeobachtend,
+[7763.42s -> 7766.42s]  Kundgebungen gesprengt, Redner zum Stottern gebracht,
+[7766.42s -> 7771.42s]  Marschmusik auch, Choräle im Walzer am Foxtrot umgebogen.
+[7771.42s -> 7774.42s]  Heute, als Privatpatient einer Heil- und Pflegeanstalt,
+[7774.42s -> 7777.42s]  da das alles schon historisch geworden ist,
+[7777.42s -> 7780.42s]  zwar noch immer eifrig, aber als kaltes Eisen geschmiert wird,
+[7780.42s -> 7782.42s]  habe ich den rechten Abstand zu meiner Trommelei unter Tribünen.
+[7784.42s -> 7790.42s]  Nichts liegt ferner, als in mir wegen der sechs oder sieben zum Platzen gebrachten Kundgebungen
+[7790.42s -> 7794.42s]  drei oder vier aus dem Schritt getrommelten Aufmärsche und Vorbeimärsche
+[7794.42s -> 7796.42s]  nun einen Widerstandskämpfer zu sehen.
+[7796.42s -> 7799.42s]  Das Wort ist reiflich in Mode gekommen.
+[7799.42s -> 7802.42s]  Vom Geist des Widerstands spricht man von Widerstandskreisen.
+[7802.42s -> 7805.42s]  Man soll den Widerstand sogar verinnerlichen können,
+[7805.42s -> 7807.42s]  das nennt man dann innere Emigration.
+[7807.42s -> 7810.42s]  Ganz zu schweigen von jenen bibelfesten Ehrenmännern,
+[7810.42s -> 7813.42s]  die während des Krieges wegen nachlässiger Verdunklung der Schlafzimmerfenster,
+[7814.42s -> 7817.42s]  vom Luft zu Zwarz eine Geldstrafe aufgepumpt bekamen
+[7817.42s -> 7819.42s]  und sich jetzt Widerstandskämpfer nennen.
+[7819.42s -> 7824.42s]  Männer des Widerstands.
+[7824.42s -> 7827.42s]  Wir wollen noch einmal einen Blick unter Oskars Tribünen werfen.
+[7827.42s -> 7829.42s]  Hat Oskar dem was vorgetrommelt?
+[7829.42s -> 7832.42s]  Hat er, dem Rat seines Lehrers Debra folgend,
+[7832.42s -> 7836.42s]  die Handlung an sich gerissen und das Volk vor der Tribüne zum Tanzen gebracht?
+[7836.42s -> 7839.42s]  Hat er dem so schlagfertigen und mit allem Wasser im Gewaschen
+[7839.42s -> 7842.42s]  Gauschelungsleiter Loeb seit das Konzept vermasselt?
+[7842.42s -> 7846.42s]  Hat er an einem Einkaufssonntag im August des Jahres 35
+[7846.42s -> 7849.42s]  zum ersten Mal und später noch einige Male bräunliche Kundgebungen
+[7849.42s -> 7854.42s]  auf einer zwar weiß-roten, dennoch nicht polnischen Blechtrommel wirbelnd aufgelöst?
+[7854.42s -> 7857.42s]  Das alles habe ich getan, werden Sie zugeben müssen.
+[7857.42s -> 7861.42s]  Bin ich, der Insasse einer Heil- und Pflegeanstalt, deshalb ein Widerstandskämpfer?
+[7861.42s -> 7863.42s]  Nein, ich muss diese Frage verneinen.
+[7863.42s -> 7867.42s]  Und bitte auch Sie, die Sie nicht Insassen von Heil- und Pflegeanstalten sind,
+[7867.42s -> 7871.42s]  in mir nichts anderes, als einen etwas eigenbrölerischen Menschen zu sehen,
+[7871.42s -> 7876.42s]  der aus privaten, dazu ästhetischen Gründen auch seines Lehrers und so weiter beherzigen
+[7876.42s -> 7879.42s]  Farbe und Schnitt der Uniformen, Takt und Lautstärke,
+[7879.42s -> 7884.42s]  der auf Tribünen übliche Musik ablehnte und deshalb auf einem bloßen Kinderspielzeug
+[7884.42s -> 7887.42s]  einigen Protest zusammentrommelte.
+[7887.42s -> 7892.42s]  Ich habe mich, also man hat mir zugetragen,
+[7892.42s -> 7895.42s]  das Stück, wenn es dann so weitergeht,
+[7895.42s -> 7900.42s]  wäre aufgrund der poetischen Intention des Mystifizierens des dritten Reiches,
+[7900.42s -> 7905.42s]  des Verklärens der Lebensumstände damals zu einem einzigen Rätsel,
+[7905.42s -> 7912.42s]  zu einem objektiven, unerklärlichen, vielleicht in seinen Bildern auch einigermaßen erträglich manchmal.
+[7912.42s -> 7917.42s]  Jedenfalls, ich will es nicht beurteilen, will es auch niemandem zur Lektüre empfehlen,
+[7917.42s -> 7922.42s]  jedenfalls gilt das nicht von seinem Urheber,
+[7922.42s -> 7928.42s]  der ja als zu Ehren gelangter Dichter herumläuft,
+[7928.42s -> 7932.42s]  als Kulturfußnote zum Geschehen des Imperialismus,
+[7932.42s -> 7937.42s]  eine einzelne Wortmeldung liest, ein einziges gutes Gewissen,
+[7937.42s -> 7941.42s]  worüber auch alles angezettelt wird, einsteigt und vertritt,
+[7941.42s -> 7947.42s]  dass ihm Gras als Mitglied des Freien Westens dies oder jenes schwer zu bedenken gibt.
+[7947.42s -> 7953.42s]  Und er meint, gerade weil auch der Freie Westen die hohen Titel für sich reklamiert,
+[7953.42s -> 7957.42s]  Menschenfreundlichkeit und sonst was, müsste er das Maul aufreißen.
+[7958.42s -> 7961.42s]  Er will nicht über nationale gute Gewissen spielen.
+[7961.42s -> 7964.42s]  Das ist eine enorm widerliche Kreatur.
+[7964.42s -> 7967.42s]  Die Christa Wolf, die steht zwar auf der Widerung,
+[7967.42s -> 7974.42s]  aber ich will die nicht mehr machen, das ist ein ganz trostloses Zeug, das Buch.
+[7974.42s -> 7978.42s]  Ich lese da einfach den Klappentext hinten.
+[7978.42s -> 7982.42s]  Der Tag ist makellos geblieben bis zu seiner letzten Minute.
+[7982.42s -> 7987.42s]  An diesem Tag kommt die Nachricht aus Tschernobyl in einem kleinen Dorf in Mecklenburg an.
+[7987.42s -> 7993.42s]  An diesem Tag muss der Bruder der Erzählerin sich in der fernen Stadt einer Hirnoperation unterziehen.
+[7993.42s -> 7995.42s]  Das ist alles gleich wesentlich, merkt man sofort.
+[7995.42s -> 7999.42s]  An diesem Tag kommen Besucher auf den Spuren alter Kriegserinnerungen in den Ort.
+[7999.42s -> 8003.42s]  An diesem Tag will der alte Nachbar ein paar Saatkartoffeln in den Boden kriegen.
+[8003.42s -> 8006.42s]  An diesem Tag soll man eigentlich nicht im Garten arbeiten.
+[8006.42s -> 8011.42s]  Störfall ist Christa Wolfs Antwort auf eine nicht zu beantwortende Frage.
+[8011.42s -> 8015.42s]  Was ist an diesem Tag im April 1986 mit den Menschen geschehen?
+[8015.42s -> 8016.42s]  Man merkt die...
+[8016.42s -> 8020.42s]  Man merkt die Kunst des Zeitgestehens besteht wesentlich darin,
+[8020.42s -> 8024.42s]  die einfache Antwort, ein wenig verseucht sind sie worden, nicht zu sagen,
+[8024.42s -> 8028.42s]  stattdessen dieses Zeitereignis sofort als philosophisches Programm,
+[8028.42s -> 8033.42s]  als philosophische Grundsatzfrage zu verrätseln, die Frage aufzustellen,
+[8033.42s -> 8037.42s]  ja was heißt denn das für unser Leben überhaupt, inwieweit sind wir betroffen?
+[8037.42s -> 8042.42s]  Und dann geht das Buch los, in dem ein Lebensschicksal von sich zum Besten gibt,
+[8042.42s -> 8044.42s]  wie es im Garten, Pflanzen, in der Küche und dem ganzen Scheiß,
+[8044.42s -> 8050.42s]  wie es sich zu seiner weltereigenen Zufriedenheit zurechtgeschnitzt hat
+[8050.42s -> 8056.42s]  und durch dieses Zeitereignis Tschernobyl tatsächlich in dem guten Glauben an die heile Welt erschüttert wird.
+[8056.42s -> 8067.42s]  Abschließend und zusammenfassend zwei Stellungnahmen zu dem verhandelten Gegenstand,
+[8067.42s -> 8073.42s]  300 Jahre bürgerliche Kunst, allerdings höchst affirmativ,
+[8074.42s -> 8078.42s]  und darin ihrerseits wiederum sehr bezeichnend.
+[8078.42s -> 8083.42s]  Der Schlaumeier Goethe.
+[8083.42s -> 8092.42s]  Die literarische Welt hat das eigene, dass in ihr nichts zerstört wird,
+[8092.42s -> 8098.42s]  ohne dass etwas Neues daraus entsteht, und zwar etwas Neues derselben Art.
+[8098.42s -> 8102.42s]  Es bleibt in ihr dadurch ein ewiges Leben.
+[8102.42s -> 8104.42s]  Sie ist immer Greis, Mann, Lübeck.
+[8104.42s -> 8107.42s]  Sie ist üblich und Kind zugleich.
+[8107.42s -> 8112.42s]  Und da, wo nicht alles, so doch das meiste bei der Zerstörung noch erhalten wird,
+[8112.42s -> 8115.42s]  so kommt ihr kein anderer Zustand gleich.
+[8115.42s -> 8118.42s]  Das macht auch, dass alle, die darin leben,
+[8118.42s -> 8122.42s]  eine Art von Seligkeit und Selbstgenügsamkeit erfahren,
+[8122.42s -> 8126.42s]  von der man auswärts keinen Begriff hat.
+[8126.42s -> 8132.42s]  Es ist dem Grundsatz, dem Grundgedanken, der Grundvorstellung nach so verkehrt gar nicht,
+[8132.42s -> 8136.42s]  wenn auch die Bilder, das mit dem Greis, mit dem Mann und so weiter,
+[8136.42s -> 8140.42s]  die Sache bloß wieder verräzen und nicht retten.
+[8140.42s -> 8149.42s]  Es ist schon so, dass diese literarische Welt des Scheins immer an demselben strickt,
+[8149.42s -> 8157.42s]  nämlich das Gute, das Sittliche, das Moralische, das Geistige, das Hohe,
+[8157.42s -> 8160.42s]  sich als wirklich zusammenzufantasieren,
+[8160.42s -> 8168.42s]  und die so vorgestellte Befriedigung des eigenen Interesses,
+[8168.42s -> 8174.42s]  der moralischen Maßstäbe, des eigenen Sinnbedürfnisses,
+[8174.42s -> 8178.42s]  des eigenen Menschenbildes zu genießen.
+[8178.42s -> 8187.42s]  Richtig ist auch, dass dieser Genuss für die, die ihn fabrizieren wollen,
+[8187.42s -> 8189.42s]  hat man eben von dieser höheren Sorte,
+[8189.42s -> 8196.42s]  von dieser höheren Sorte des Genusses an menschlicher Moralität keinen Begriff.
+[8196.42s -> 8199.42s]  Noch lange nicht seligmannend allerdings,
+[8199.42s -> 8203.42s]  und groß, sondern eher banal und trostlos,
+[8203.42s -> 8207.42s]  ist jedoch die gedankliche Operation,
+[8207.42s -> 8211.42s]  die in diesen Zirkel haust und sich in ihm ausspinnt
+[8211.42s -> 8217.42s]  und sich ewig immer neue Formen zusammensucht.
+[8217.42s -> 8223.42s]  Sich eine höhere Sinnhaftigkeit, im Regelfall übrigens immer
+[8223.42s -> 8228.42s]  die glückselig machende Sittlichkeit oder Bilder derselben,
+[8228.42s -> 8233.42s]  aber auch einen sonstigen Sinn höherer menschlicher Art,
+[8233.42s -> 8237.42s]  eine Harmoniewelt auszudenken,
+[8237.42s -> 8242.42s]  die für sich selbst genommen in keiner Weise eine Überprüfung standhält,
+[8242.42s -> 8245.42s]  ist schon blöd.
+[8245.42s -> 8248.42s]  Sich diese Sinnhaftigkeit auch nur verlebendigt,
+[8248.42s -> 8252.42s]  anschaulich gemacht und so genießerisch eingängig machen zu wollen,
+[8252.42s -> 8257.42s]  ist erst recht blöd.
+[8257.42s -> 8263.42s]  Deswegen ist die zweite Stellungnahme zu dieser geschlossenen Anstalt Kunst,
+[8263.42s -> 8266.42s]  die ich bloß noch anzitieren will,
+[8266.42s -> 8268.42s]  die von Adorno kommt und die heißt
+[8268.42s -> 8272.42s]  nach Ausschnitt des Dichten nicht mehr möglich,
+[8272.42s -> 8274.42s]  erst einmal bodenlos übertrieben.
+[8275.42s -> 8278.42s]  Wieso soll denn ausgängig dieser Quatsch
+[8278.42s -> 8281.42s]  nicht mehr möglich sein?
+[8281.42s -> 8284.42s]  Zweitens aber,
+[8284.42s -> 8287.42s]  wenn aus Schwitz,
+[8287.42s -> 8289.42s]  was ja stehen soll
+[8289.42s -> 8294.42s]  für das größte Menschheitsverträgen, wo je gab,
+[8294.42s -> 8297.42s]  die Kunst
+[8297.42s -> 8300.42s]  als hier der Prätention nach
+[8300.42s -> 8304.42s]  das ideelle Gesamtgewissen der Menschheit zum Verschweigen bringen soll,
+[8305.42s -> 8308.42s]  dieses Gewissen lustigerweise,
+[8308.42s -> 8313.42s]  das soll nach jedem kleinen lyrischen Heimfallen springen,
+[8313.42s -> 8317.42s]  dann belehrt dieser elitäre Moralismus
+[8317.42s -> 8320.42s]  auf seine Weise über das Verhältnis,
+[8320.42s -> 8325.42s]  in dem die Kunst zum Rest der Welt stehen soll.
+[8325.42s -> 8328.42s]  Erstens ist dieser Rest der Welt,
+[8328.42s -> 8331.42s]  worunter die Wirkliche fällt,
+[8331.42s -> 8333.42s]  ohnehin noch,
+[8333.42s -> 8336.42s]  Frau aus Schwitz sowieso,
+[8336.42s -> 8338.42s]  aber im Prinzip auch immer,
+[8338.42s -> 8340.42s]  ein einziges Angebot
+[8340.42s -> 8343.42s]  und ein einziger Anlass,
+[8343.42s -> 8347.42s]  schön besungen zu werden von der Kunst,
+[8347.42s -> 8350.42s]  in ihrer angeblichen Idealität
+[8350.42s -> 8353.42s]  stur bespiegelt zu werden,
+[8353.42s -> 8356.42s]  gleichgültig gegenüber allem,
+[8356.42s -> 8360.42s]  was objektiv, was wirklich in ihr stattfindet.
+[8360.42s -> 8361.42s]  Zweitens,
+[8361.42s -> 8366.42s]  da die Kunst
+[8366.42s -> 8369.42s]  die geistige Instanz ist,
+[8369.42s -> 8372.42s]  die so entscheidet
+[8372.42s -> 8376.42s]  über die prinzipielle Haltung des Einverständnisses
+[8376.42s -> 8379.42s]  gegenüber dem Gang der Welt,
+[8379.42s -> 8383.42s]  um den man sich nach der Seite hin, was er ist, nicht kümmert,
+[8383.42s -> 8385.42s]  die einzige ist,
+[8385.42s -> 8388.42s]  die dieses Einverständnis zu Wege bringt,
+[8388.42s -> 8390.42s]  ist sie auch die einzige,
+[8390.42s -> 8392.42s]  um von dieser Instanz aus
+[8392.42s -> 8395.42s]  und auch immer im Namen des Gelingens der idealen Welt
+[8395.42s -> 8398.42s]  nicht Einverständnis zu reklamieren.
+[8398.42s -> 8401.42s]  Das hat auch der junge Böll schon gewusst,
+[8401.42s -> 8404.42s]  das getreuliche Echo,
+[8404.42s -> 8406.42s]  auf diese Parole
+[8406.42s -> 8408.42s]  und über den Faschismus vermerkt,
+[8408.42s -> 8411.42s]  ihm ist nicht mal eine halbe Seite Prosa gelungen.
+[8411.42s -> 8413.42s]  Zweitens,
+[8413.42s -> 8415.42s]  die Kunst ist nicht nur
+[8415.42s -> 8417.42s]  ein Einverständnis,
+[8417.42s -> 8419.42s]  sondern auch ein Einverständnis,
+[8419.42s -> 8421.42s]  der nur die Kunst liebt.
+[8421.42s -> 8424.42s]  Kunstliebhaber sind folglich
+[8424.42s -> 8429.42s]  nicht nur darauf hinzuweisen,
+[8429.42s -> 8431.42s]  dass ihre Liebhaberei
+[8431.42s -> 8437.42s]  mit allerhand theoretischem Unsinn
+[8437.42s -> 8439.42s]  verknüpft ist
+[8439.42s -> 8442.42s]  und ohne den gar nicht geht,
+[8442.42s -> 8445.42s]  sondern dass sie auch den praktisch
+[8445.42s -> 8448.42s]  ernst zu nehmenden Fehler begehen,
+[8448.42s -> 8451.42s]  in kritischen Messen von allem und jedem
+[8451.42s -> 8454.42s]  nach den Maßstäben und Wesentheiten,
+[8454.42s -> 8458.42s]  die der ästhetische Geschmack so kennt,
+[8458.42s -> 8463.42s]  allen tatsächlichen Maßstäben gegenüber
+[8463.42s -> 8466.42s]  herzerfrischend gleichgültig
+[8466.42s -> 8468.42s]  mit dem höchst unwichtigen Gesichtspunkt
+[8468.42s -> 8470.42s]  zu Leibe zu rücken,
+[8470.42s -> 8473.42s]  ob die es einem recht machen.
+[8473.42s -> 8476.42s]  Dazu ist die Welt nicht eingerichtet
+[8476.42s -> 8478.42s]  und das ist keine romantische Parole,
+[8478.42s -> 8480.42s]  sondern die Kritik des Idealismus.
